@@ -1,0 +1,19 @@
+{
+  "shows": [
+    {
+      "venue": "The Blue Rooster",
+      "band": "Ariella",
+      "dateString": "Feb 01, 2022 7:00PM"
+    },
+    {
+      "venue": "Hideaway Cafe",
+      "band": "Ariella",
+      "dateString": "Mar 12, 2022 8:00PM"
+    },
+    {
+      "venue": "The Blue Rooster",
+      "band": "Ariella",
+      "dateString": "Mar 15, 2022 7:00PM"
+    }
+  ]
+}

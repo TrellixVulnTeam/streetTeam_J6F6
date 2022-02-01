@@ -1,0 +1,69 @@
+{
+  "shows": [
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "Feb 11, 2022 9:00PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Jezabelle",
+      "dateString": "Feb 18, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Jezabelle",
+      "dateString": "Mar 18, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "Mar 25, 2022 9:00PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "Apr 30, 2022 9:00PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "May 20, 2022 9:00PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "Jun 11, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "! Smudgekitten !",
+      "dateString": "Sep 03, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "Sep 24, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "! Smudgekitten !",
+      "dateString": "Oct 08, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "Oct 22, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "! Smudgekitten !",
+      "dateString": "Nov 12, 2022 9:30PM"
+    },
+    {
+      "venue": "Banana Factory",
+      "band": "Charles Parker",
+      "dateString": "Nov 19, 2022 9:30PM"
+    }
+  ]
+}

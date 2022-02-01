@@ -1,0 +1,84 @@
+{
+  "shows": [
+    {
+      "venue": "White Elephant Pub",
+      "band": "Chris Connolly",
+      "dateString": "Jan 31, 2022 6:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Lost Dogz",
+      "dateString": "Feb 11, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Feb 19, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Mar 11, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Apr 16, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Lost Dogz",
+      "dateString": "Apr 29, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Lost Dogz",
+      "dateString": "May 14, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "May 21, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Jun 04, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Lost Dogz",
+      "dateString": "Jun 25, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Jul 02, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Aug 06, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Sep 17, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Oct 15, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Nov 12, 2022 7:00PM"
+    },
+    {
+      "venue": "White Elephant Pub",
+      "band": "Tropical Avenue",
+      "dateString": "Dec 10, 2022 7:00PM"
+    }
+  ]
+}

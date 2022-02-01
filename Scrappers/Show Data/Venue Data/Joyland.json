@@ -1,0 +1,29 @@
+{
+  "shows": [
+    {
+      "venue": "Joyland",
+      "band": "Scarlet Drive",
+      "dateString": "Feb 11, 2022 9:00PM"
+    },
+    {
+      "venue": "Joyland",
+      "band": "-22N-",
+      "dateString": "Apr 01, 2022 9:30PM"
+    },
+    {
+      "venue": "Joyland",
+      "band": "Jack'D Up",
+      "dateString": "May 20, 2022 9:30PM"
+    },
+    {
+      "venue": "Joyland",
+      "band": "Jack'D Up",
+      "dateString": "Sep 16, 2022 9:30PM"
+    },
+    {
+      "venue": "Joyland",
+      "band": "Jack'D Up",
+      "dateString": "Dec 16, 2022 9:30PM"
+    }
+  ]
+}

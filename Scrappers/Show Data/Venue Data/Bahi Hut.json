@@ -1,0 +1,54 @@
+{
+  "shows": [
+    {
+      "venue": "Bahi Hut",
+      "band": "Johnny Awesome",
+      "dateString": "Feb 05, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Evan Eastmoore",
+      "dateString": "Feb 11, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Marko Coconut",
+      "dateString": "Feb 12, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Shawn Brown",
+      "dateString": "Feb 19, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Beach Bum Barry",
+      "dateString": "Feb 25, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Dave-LIVE",
+      "dateString": "Feb 26, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Steel Drums by Nax Steele",
+      "dateString": "Mar 04, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Gil Lozada",
+      "dateString": "Mar 05, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Evan Eastmoore",
+      "dateString": "Mar 11, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Charles Parker",
+      "dateString": "Mar 12, 2022 7:00PM"
+    }
+  ]
+}

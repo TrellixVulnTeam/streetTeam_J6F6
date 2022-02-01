@@ -1,0 +1,134 @@
+{
+  "shows": [
+    {
+      "venue": "Blue Rooster",
+      "band": "Backtrack Blues Band",
+      "dateString": "Jan 29, 2022 8:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Ariella Duo",
+      "dateString": "Feb 01, 2022 7:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Al Fuller Blues Jam",
+      "dateString": "Feb 02, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Tas Cru Band",
+      "dateString": "Feb 03, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Big Night Out",
+      "dateString": "Feb 05, 2022 8:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Southern Buffet Gospel Brunch with Shantel Norman and Joycelyn Corbert",
+      "dateString": "Feb 06, 2022 11:15AM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Suitcase Full Of Blues",
+      "dateString": "Feb 08, 2022 7:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Al Fuller Blues Jam",
+      "dateString": "Feb 09, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Memphis Rub Band",
+      "dateString": "Feb 10, 2022 8:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Jose\u2019 Ramirez Band",
+      "dateString": "Feb 12, 2022 8:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Southern Buffet Gospel Brunch with Truality",
+      "dateString": "Feb 13, 2022 11:15AM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Shakey \u2013 An Evening With Neil Young (Almost)",
+      "dateString": "Feb 15, 2022 7:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Al Fuller Blues Jam",
+      "dateString": "Feb 16, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Big Al & The Heavyweights",
+      "dateString": "Feb 17, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Southern Buffet Gospel Brunch with Truality",
+      "dateString": "Feb 20, 2022 11:15AM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Suitcase Full Of Blues",
+      "dateString": "Feb 22, 2022 7:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Al Fuller Blues Jam",
+      "dateString": "Feb 23, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Bryan Spainhower and Combo Vimana",
+      "dateString": "Feb 24, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Sauce Boss Bill Wharton",
+      "dateString": "Feb 25, 2022 8:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Sister Lucille",
+      "dateString": "Feb 26, 2022 8:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Southern Buffet Gospel Brunch with Truality",
+      "dateString": "Feb 27, 2022 11:15AM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Selwyn Birchwood\u2019s Blues Revue",
+      "dateString": "Mar 01, 2022 7:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Al Fuller Blues Jam",
+      "dateString": "Mar 02, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "The Divebombers",
+      "dateString": "Mar 03, 2022 7:30PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Big Night Out",
+      "dateString": "Mar 05, 2022 8:00PM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Southern Buffet Gospel Brunch with Shantel Norman and Joycelyn Corbert",
+      "dateString": "Mar 06, 2022 11:15AM"
+    }
+  ]
+}

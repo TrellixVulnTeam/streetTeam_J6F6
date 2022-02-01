@@ -1,0 +1,704 @@
+{
+  "shows": [
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Torpedoes",
+      "dateString": "Jan 30, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Feb 01, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Symmetry",
+      "dateString": "Feb 04, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Feb 05, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Stormbringer",
+      "dateString": "Feb 05, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "LC Williams & The Driver",
+      "dateString": "Feb 06, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Feb 08, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "#NoFilter",
+      "dateString": "Feb 11, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Celtic Conundrum",
+      "dateString": "Feb 12, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "More is More Band",
+      "dateString": "Feb 12, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Feb 15, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Applebutter Express",
+      "dateString": "Feb 18, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Stillhouse Shakers",
+      "dateString": "Feb 19, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Derek Lersch Band",
+      "dateString": "Feb 19, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Rectifiers",
+      "dateString": "Feb 20, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Feb 22, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Alex Lopez Band",
+      "dateString": "Feb 25, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Feb 26, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Headtones & Golden Era",
+      "dateString": "Feb 26, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Relics",
+      "dateString": "Feb 27, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "TBone Hamilton\u2019s Big Easy Revue",
+      "dateString": "Mar 01, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Horny Toads",
+      "dateString": "Mar 04, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Mar 05, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Rob Hazen",
+      "dateString": "Mar 06, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Mar 08, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Nation",
+      "dateString": "Mar 11, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Guava Train",
+      "dateString": "Mar 12, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Drop Dead Dangerous",
+      "dateString": "Mar 12, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Torpedoes",
+      "dateString": "Mar 13, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Mar 15, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Backtrack Blues",
+      "dateString": "Mar 18, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "TL Jentgens",
+      "dateString": "Mar 19, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Mar 22, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Spazmatics",
+      "dateString": "Mar 25, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Tasty Vibrations",
+      "dateString": "Mar 26, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Uncle John\u2019s Band",
+      "dateString": "Mar 26, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Mar 27, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Mar 29, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Apr 02, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Apr 05, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Apr 12, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "#NoFilter",
+      "dateString": "Apr 15, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Apr 19, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Brown Bag Brass Band",
+      "dateString": "Apr 22, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Charlie Morris",
+      "dateString": "Apr 24, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Apr 26, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Stormbringer",
+      "dateString": "Apr 29, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Apr 30, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Julie Black & Her Band",
+      "dateString": "May 01, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "May 03, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Nation",
+      "dateString": "May 06, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "May 07, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Guava Train",
+      "dateString": "May 08, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "May 10, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Horny Toads",
+      "dateString": "May 13, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Rob Hazen",
+      "dateString": "May 15, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "May 17, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "TL Jentgens",
+      "dateString": "May 21, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Celtic Conundrum",
+      "dateString": "May 22, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "May 24, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Spazmatics",
+      "dateString": "May 28, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "May 29, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "May 31, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Jun 04, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jun 07, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Proper Wednesday",
+      "dateString": "Jun 10, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Uncle John\u2019s Band",
+      "dateString": "Jun 11, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jun 14, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Stormbringer",
+      "dateString": "Jun 18, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Hot Rod Hornets",
+      "dateString": "Jun 19, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jun 21, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "#NoFilter",
+      "dateString": "Jun 24, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jun 28, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Jul 02, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jul 05, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Rob Hazen",
+      "dateString": "Jul 10, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jul 12, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Guava Train",
+      "dateString": "Jul 16, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "TL Jentgens",
+      "dateString": "Jul 16, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jul 19, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Brown Bag Brass Band",
+      "dateString": "Jul 23, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Jul 24, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Jul 26, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Spazmatics",
+      "dateString": "Jul 29, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Freecoasters",
+      "dateString": "Jul 30, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "FayRoy",
+      "dateString": "Jul 31, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Aug 02, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Aug 06, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Aug 09, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Stormbringer",
+      "dateString": "Aug 13, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Lyn Avenue",
+      "dateString": "Aug 14, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Aug 16, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "#NoFilter",
+      "dateString": "Aug 19, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Aug 23, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Uncle John\u2019s Band",
+      "dateString": "Aug 26, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Aug 28, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Aug 30, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Sep 03, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Drop Dead Dangerous",
+      "dateString": "Sep 03, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Celtic Conundrum",
+      "dateString": "Sep 04, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Sep 06, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Spazmatics",
+      "dateString": "Sep 10, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Julie Black & Her Band",
+      "dateString": "Sep 11, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Sep 13, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "TL Jentgens",
+      "dateString": "Sep 17, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Rob Hazen",
+      "dateString": "Sep 18, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Sep 20, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Sep 24, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Sep 27, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Nation",
+      "dateString": "Sep 30, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Oct 01, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "FayRoy",
+      "dateString": "Oct 02, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Oct 04, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Brown Bag Brass Band",
+      "dateString": "Oct 08, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Oct 11, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Oct 18, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "#NoFilter",
+      "dateString": "Oct 21, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Oct 25, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Uncle John\u2019s Band",
+      "dateString": "Oct 28, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Oct 29, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Nov 01, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Hot Rod Hornets",
+      "dateString": "Nov 04, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Nov 05, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Celtic Conundrum",
+      "dateString": "Nov 06, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Nov 08, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Rob Hazen",
+      "dateString": "Nov 13, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Nov 15, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Guava Train",
+      "dateString": "Nov 19, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "TL Jentgens",
+      "dateString": "Nov 19, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Nov 22, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Spazmatics",
+      "dateString": "Nov 26, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Nov 27, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Nov 29, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Acoustic Thunder",
+      "dateString": "Dec 03, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Dec 06, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Stormbringer",
+      "dateString": "Dec 10, 2022 8:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Dec 13, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Dec 20, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Speak Easy",
+      "dateString": "Dec 24, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Chris McCarty",
+      "dateString": "Dec 27, 2022 6:30PM"
+    }
+  ]
+}

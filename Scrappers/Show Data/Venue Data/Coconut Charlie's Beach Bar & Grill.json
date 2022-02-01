@@ -1,0 +1,199 @@
+{
+  "shows": [
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ Fuji",
+      "dateString": "Jan 01, 2022 1:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Crystal Blue",
+      "dateString": "Jan 01, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ Nick",
+      "dateString": "Jan 02, 2022 12:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Underground Rasta",
+      "dateString": "Jan 02, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Jonathon DiRenzo",
+      "dateString": "Jan 03, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Rob Stoney",
+      "dateString": "Jan 04, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Jeremy Thomas",
+      "dateString": "Jan 05, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Oaklee",
+      "dateString": "Jan 06, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "3 Foot Circle",
+      "dateString": "Jan 07, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ CJ",
+      "dateString": "Jan 08, 2022 1:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "J2 Duo",
+      "dateString": "Jan 08, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ 7",
+      "dateString": "Jan 09, 2022 12:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Crystal Blue",
+      "dateString": "Jan 09, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Nick Pages",
+      "dateString": "Jan 10, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Alias Julius",
+      "dateString": "Jan 11, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Jeremy Thomas",
+      "dateString": "Jan 12, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Oaklee",
+      "dateString": "Jan 13, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Big 12",
+      "dateString": "Jan 14, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ CJ",
+      "dateString": "Jan 15, 2022 1:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Crystal Blue",
+      "dateString": "Jan 15, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ Xplicid",
+      "dateString": "Jan 16, 2022 12:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Underground Rasta",
+      "dateString": "Jan 16, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Jonathon DiRenzo",
+      "dateString": "Jan 17, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Rob Stoney",
+      "dateString": "Jan 18, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Jeremy Thomas",
+      "dateString": "Jan 19, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Oaklee",
+      "dateString": "Jan 20, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Stumble Fox",
+      "dateString": "Jan 21, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ Brady",
+      "dateString": "Jan 22, 2022 1:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "The Beachbillies",
+      "dateString": "Jan 22, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ Brady",
+      "dateString": "Jan 23, 2022 1:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Underground Rasta",
+      "dateString": "Jan 23, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Nick Pages",
+      "dateString": "Jan 24, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Alias Julius",
+      "dateString": "Jan 25, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Jeremy Thomas",
+      "dateString": "Jan 26, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Oaklee",
+      "dateString": "Jan 27, 2022 5:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Big 12",
+      "dateString": "Jan 28, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "DJ Fuji",
+      "dateString": "Jan 29, 2022 1:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Alex & Moore Duo",
+      "dateString": "Jan 29, 2022 6:00PM"
+    },
+    {
+      "venue": "Coconut Charlie's Beach Bar & Grill",
+      "band": "Jonathon DiRenzo",
+      "dateString": "Jan 31, 2022 5:00PM"
+    }
+  ]
+}

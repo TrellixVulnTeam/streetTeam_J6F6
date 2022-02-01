@@ -1,0 +1,69 @@
+{
+  "shows": [
+    {
+      "venue": "Pete's Place North",
+      "band": "Proper Wednesday",
+      "dateString": "Jan 29, 2023 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Jezabelle",
+      "dateString": "Feb 04, 2022 8:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Buzz Factor",
+      "dateString": "Feb 11, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Whiskey Throttle",
+      "dateString": "Feb 26, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Jaded",
+      "dateString": "Mar 19, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Buzz Factor",
+      "dateString": "Apr 08, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Whiskey Throttle",
+      "dateString": "Apr 16, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Johnny Blevins Band",
+      "dateString": "Apr 23, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Jaded",
+      "dateString": "May 06, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Alex Lopez  and The Xpress",
+      "dateString": "May 13, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Undercover Rasta",
+      "dateString": "May 20, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Johnny Blevins Band",
+      "dateString": "Jun 25, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Undercover Rasta",
+      "dateString": "Jul 01, 2022 7:00PM"
+    }
+  ]
+}

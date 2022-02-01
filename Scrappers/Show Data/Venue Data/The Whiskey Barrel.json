@@ -1,0 +1,49 @@
+{
+  "shows": [
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "Jack Berry",
+      "dateString": "Jan 30, 2022 12:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "Evan Eastmoore",
+      "dateString": "Jan 30, 2022 5:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "Steve Sipes",
+      "dateString": "Feb 01, 2022 5:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "James Albritton",
+      "dateString": "Feb 04, 2022 4:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "Frankie Lombardi",
+      "dateString": "Feb 05, 2022 12:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "Donny Laponte",
+      "dateString": "Feb 05, 2022 4:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "Str8 Edge Band",
+      "dateString": "Feb 05, 2022 8:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "Chris Warner",
+      "dateString": "Feb 06, 2022 12:00PM"
+    },
+    {
+      "venue": "The Whiskey Barrel",
+      "band": "FLATWATER",
+      "dateString": "Feb 06, 2022 5:00PM"
+    }
+  ]
+}

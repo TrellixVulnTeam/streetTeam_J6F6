@@ -1,0 +1,304 @@
+{
+  "shows": [
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Trinity on 80",
+      "dateString": "Jan 01, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Mixed Signal",
+      "dateString": "Jan 01, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Champ Jaxson",
+      "dateString": "Jan 02, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Lazy Daisies",
+      "dateString": "Jan 02, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Rob Garcia",
+      "dateString": "Jan 03, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Cabana Dogs",
+      "dateString": "Jan 03, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Kenny Rose",
+      "dateString": "Jan 04, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Randy Stevens & the Groove Makers",
+      "dateString": "Jan 04, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "David Henry Project",
+      "dateString": "Jan 05, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Bus Stop 3.0",
+      "dateString": "Jan 05, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Dave Signs",
+      "dateString": "Jan 06, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "The Bar Tunes",
+      "dateString": "Jan 06, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Dan Meadows",
+      "dateString": "Jan 07, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Torched",
+      "dateString": "Jan 07, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Dave Moore",
+      "dateString": "Jan 08, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Derek Lersch Band",
+      "dateString": "Jan 08, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Phil Fenno Live",
+      "dateString": "Jan 09, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Saint Tone Band",
+      "dateString": "Jan 09, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Island Troy",
+      "dateString": "Jan 10, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Coastal Jam",
+      "dateString": "Jan 10, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Kenny Rose",
+      "dateString": "Jan 11, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Tony Da Band",
+      "dateString": "Jan 11, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Randy Stevens",
+      "dateString": "Jan 12, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "2XL",
+      "dateString": "Jan 12, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "RJ Pauly",
+      "dateString": "Jan 13, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "License to Chill",
+      "dateString": "Jan 13, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "The Flying D'Rito Brothers Duo",
+      "dateString": "Jan 14, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "The Occasions",
+      "dateString": "Jan 14, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Trinity on 80",
+      "dateString": "Jan 15, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Gas House Gorillas",
+      "dateString": "Jan 15, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Shift Change",
+      "dateString": "Jan 16, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Johnny Puma",
+      "dateString": "Jan 16, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Danny Beach",
+      "dateString": "Jan 17, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Silver Back",
+      "dateString": "Jan 17, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Kenny Rose",
+      "dateString": "Jan 18, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Tiger Blue Band",
+      "dateString": "Jan 18, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Danielle Mohr",
+      "dateString": "Jan 19, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Bus Stop 3.0",
+      "dateString": "Jan 19, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Chris Connelly",
+      "dateString": "Jan 20, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Wild Horses",
+      "dateString": "Jan 20, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "J & B Acoustics",
+      "dateString": "Jan 21, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Rev Berry",
+      "dateString": "Jan 21, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "High Tide",
+      "dateString": "Jan 22, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Jah Movement",
+      "dateString": "Jan 22, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "D Morris",
+      "dateString": "Jan 23, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Storm Warning",
+      "dateString": "Jan 23, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Saint Tone",
+      "dateString": "Jan 24, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "The Dive Bombers",
+      "dateString": "Jan 24, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Kenny Rose",
+      "dateString": "Jan 25, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Rockin Rouges",
+      "dateString": "Jan 25, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Hey Bob",
+      "dateString": "Jan 26, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Virgil Cain",
+      "dateString": "Jan 26, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Gary & Keri",
+      "dateString": "Jan 27, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Dukes of Brinkley",
+      "dateString": "Jan 27, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Trinidudes",
+      "dateString": "Jan 28, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Cross Fire Creek",
+      "dateString": "Jan 28, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Kool Knights",
+      "dateString": "Jan 29, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "22N",
+      "dateString": "Jan 29, 2022 7:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Vince Berardi",
+      "dateString": "Jan 31, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Juke Box",
+      "dateString": "Jan 31, 2022 6:00PM"
+    }
+  ]
+}

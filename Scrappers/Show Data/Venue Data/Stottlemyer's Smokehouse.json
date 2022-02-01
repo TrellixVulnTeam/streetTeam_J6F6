@@ -1,0 +1,419 @@
+{
+  "shows": [
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jan 30, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Old Glory Band",
+      "dateString": "Feb 02, 2022 6:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Charles Parker",
+      "dateString": "Feb 03, 2022 6:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "! Scarlet Drive !",
+      "dateString": "Feb 05, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Feb 06, 2022 3:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Reckless Deriver",
+      "dateString": "Feb 10, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "-22N-",
+      "dateString": "Feb 12, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Feb 13, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "RJ Howson",
+      "dateString": "Feb 17, 2022 6:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Feb 18, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Feb 20, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Feb 28, 2022 8:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Feb 27, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "RJ Howson",
+      "dateString": "Mar 03, 2022 6:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Mar 06, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Dr Dave Band",
+      "dateString": "Mar 11, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Mar 13, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Mar 18, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Mar 20, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Mar 25, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Mar 27, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Apr 03, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Apr 08, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Apr 09, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Apr 10, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Apr 17, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Apr 24, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Jack'D Up",
+      "dateString": "Apr 30, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "May 01, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Tommy Mack",
+      "dateString": "May 07, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "May 08, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "May 14, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "May 15, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "May 22, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "May 29, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Tommy Mack",
+      "dateString": "Jun 03, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jun 05, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Jun 10, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jun 12, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jun 19, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Jun 24, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jun 26, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jul 03, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jul 10, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Jul 16, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jul 17, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Jul 22, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jul 24, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jul 31, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Aug 07, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Aug 14, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Aug 20, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Aug 21, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Aug 26, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Aug 28, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Sep 04, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Sep 11, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Sep 16, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Sep 18, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Sep 25, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Sep 30, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Oct 02, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Oct 09, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Oct 15, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Oct 16, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Oct 21, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Oct 23, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Oct 30, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Tommy Mack",
+      "dateString": "Nov 05, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Nov 06, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Nov 13, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Nov 19, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Nov 20, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Nov 25, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Nov 27, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Dec 04, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Tommy Mack",
+      "dateString": "Dec 10, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Dec 11, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "The Monsoons",
+      "dateString": "Dec 17, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Dec 18, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Smudgekitten",
+      "dateString": "Dec 23, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Dec 25, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Kettle Of Fish",
+      "dateString": "Jan 01, 2023 4:00PM"
+    }
+  ]
+}
