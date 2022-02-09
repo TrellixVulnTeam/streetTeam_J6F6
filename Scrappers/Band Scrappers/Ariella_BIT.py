@@ -10,11 +10,14 @@ import datetime
 import os
 import json
 
+from OhmicityShared import ohmicity_shared
+
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
 
 # %%
 url = 'https://www.bandsintown.com/a/1710060-ariella?'
@@ -62,7 +65,7 @@ for link in links_array:
     venue_link = venue_div.find_element(By.TAG_NAME, 'a')
     venue_name = venue_link.text
 
-    if any([x in venue_name for x in venue_array]): 
+    if any([x in venue_name for x in ohmicity_shared.venue_array]): 
                 pass
     else:
                 continue
@@ -92,7 +95,7 @@ shows['shows'] = shows_array
 
 
 # %%
-save_path = '/Volumes/Work/Face2Face/Xity/Scrappers/Show Data/Band Data'
+save_path = ohmicity_shared.band_data_path
 file_name = band_name + '.json'
 complete_name = os.path.join(save_path, file_name)
 

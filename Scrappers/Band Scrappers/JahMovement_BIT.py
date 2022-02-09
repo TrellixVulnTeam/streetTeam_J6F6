@@ -10,6 +10,8 @@ import datetime
 import os
 import json
 
+from OhmicityShared import ohmicity_shared
+
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
@@ -17,7 +19,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # %%
-url = 'https://www.bandsintown.com/a/2470649'
+url = 'https://www.bandsintown.com/a/4009595-jah-movement?came_from=257&utm_medium=web&utm_source=artist_event_page&utm_campaign=artist'
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get(url)
@@ -27,16 +29,7 @@ links_array = []
 shows_array = []
 total_array = []
 
-band_name = 'Sara Diamond'
-
-# %%
-venue_array = [
-    '210', "Blue Rooster", 'Burger-ish', "River Roo", "Cage Brewing", "Cask & Ale", "Cask and Ale", "Coconut", "Cottonmouth", "Daiquiri Deck Raw Bar Siesta Key", "Darwin Brewing", "Del Frisco", "Dockside", "Drunken Clam",
-    "Englewoods On Dearborn", "Floridian Social Club", "Flute & Dram", "Gator Club", "Gilligan", "Green Iguana", "Hideaway", "Independent Bar St Petersburg", "Independent Bar and Cafe Tampa", "Island Time Bar and Grill",
-    "Joyland", "Mad Hatters", "Marina Jack", "Mattison's City Grille", "Mattison's Riverwalk Grille", "Motorworks Brewing", "New World Brewery", "O'Brien", "Pete's Place North", "Ringside Cafe", "Ruby's Elixir",
-    "SandBar", "Hard Rock", "Sharky", "Siesta Key Oyster Bar", "Skipper", "St Pete Side Lot", "Stottlemyer", "Straggler", "TJ Carney", "Tamiami Tap", "The Castle", "The Pub Tampa Bay", "The Tavern At Bayboro",
-    "Whiskey Barrel", "Whiskey Wings - St Peterburg", "Toasted Monkey", "White Elephant Pub", "Wild Rover Brewery", 
-]
+band_name = 'Jah Movement'
 
 # %%
 show_more_button = driver.find_element(By.CLASS_NAME, '_1GaeyllMT79LYiH-6HrT56')
@@ -62,7 +55,7 @@ for link in links_array:
     venue_link = venue_div.find_element(By.TAG_NAME, 'a')
     venue_name = venue_link.text
 
-    if any([x in venue_name for x in venue_array]): 
+    if any([x in venue_name for x in ohmicity_shared.venue_array]): 
                 pass
     else:
                 continue
@@ -92,7 +85,7 @@ shows['shows'] = shows_array
 
 
 # %%
-save_path = '/Volumes/Work/Face2Face/Xity/Scrappers/Show Data/Band Data'
+save_path = ohmicity_shared.band_data_path
 file_name = band_name + '.json'
 complete_name = os.path.join(save_path, file_name)
 
