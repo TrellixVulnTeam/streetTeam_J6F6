@@ -3,7 +3,7 @@ import PianoBar
 import BigTop
 import BlaseCafe
 import GatorClub
-'''import HideawayCafe'''
+import EnglewoodsOnDearborn
 import Joyland
 import OBriensIrishPub
 import PetesPlaceNorth
@@ -28,7 +28,6 @@ print('HTML Sites Finished Scrapping')
 
 import BlueRooster
 import CoconutCharlies
-'''import EnglewoodsOnDearborn'''
 import HardRock
 import ToastedMonkey
 import WhiskeyBarrel

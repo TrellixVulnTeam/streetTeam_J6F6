@@ -2,52 +2,7 @@
   "shows": [
     {
       "venue": "Woody's River Roo",
-      "band": "STEVE PARIDIS",
-      "dateString": "Feb 04, 2022 4:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "SOUL CIRCUS COWBOYS",
-      "dateString": "Feb 04, 2022 7:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "KRISTIE & ROB",
-      "dateString": "Feb 05, 2022 1:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "BEARDED BROTHERS",
-      "dateString": "Feb 05, 2022 7:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "SOUL R COASTER",
-      "dateString": "Feb 06, 2022 1:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "EVAN EASTMORE ",
-      "dateString": "Feb 08, 2022 6:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "HURRICANE SHANE",
-      "dateString": "Feb 09, 2022 6:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "MEMPHIS LIGHTING",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "DAVE SMITH ",
-      "dateString": "Feb 11, 2022 4:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
-      "band": "SUPER BOWL PARTY",
+      "band": "PRE-GAME SUPER BOWL PARTY",
       "dateString": "Feb 13, 2022 7:00PM"
     },
     {
@@ -57,12 +12,17 @@
     },
     {
       "venue": "Woody's River Roo",
+      "band": "JEZABELLE DUO",
+      "dateString": "Feb 16, 2022 6:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
       "band": "JUKE BOX ASSASSINS",
       "dateString": "Feb 17, 2022 6:00PM"
     },
     {
       "venue": "Woody's River Roo",
-      "band": "SHERI",
+      "band": "CHERRI PEPPER",
       "dateString": "Feb 18, 2022 4:00PM"
     },
     {
@@ -122,6 +82,11 @@
     },
     {
       "venue": "Woody's River Roo",
+      "band": "LYSSA COULTER",
+      "dateString": "Mar 03, 2022 6:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
       "band": "Chris Warner",
       "dateString": "Mar 04, 2022 4:00PM"
     },
@@ -167,6 +132,11 @@
     },
     {
       "venue": "Woody's River Roo",
+      "band": "KRISTIE KRAUS & BRADY LEE",
+      "dateString": "Mar 12, 2022 1:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
       "band": "STONE GREY",
       "dateString": "Mar 12, 2022 7:00PM"
     },
@@ -183,7 +153,7 @@
     {
       "venue": "Woody's River Roo",
       "band": "ELECTRIC SOUL THERAPY",
-      "dateString": "Mar 17, 2022 6:00PM"
+      "dateString": "Mar 17, 2022 7:00PM"
     },
     {
       "venue": "Woody's River Roo",
@@ -194,6 +164,26 @@
       "venue": "Woody's River Roo",
       "band": "K-LUV",
       "dateString": "Mar 18, 2022 7:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
+      "band": "TROPICAL AVE",
+      "dateString": "Mar 19, 2022 7:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
+      "band": "BUS STOP 3.0",
+      "dateString": "Mar 22, 2022 6:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
+      "band": "JESSE BYERS",
+      "dateString": "Mar 23, 2022 6:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
+      "band": "SCREAMIN DAVE  & K-LUV",
+      "dateString": "Mar 24, 2022 6:00PM"
     }
   ]
 }

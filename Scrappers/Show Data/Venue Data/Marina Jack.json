@@ -2,61 +2,6 @@
   "shows": [
     {
       "venue": "Marina Jack",
-      "band": "Scott Curtis",
-      "dateString": "Feb 02, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Scott Curtis",
-      "dateString": "Feb 03, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Bri Rivera",
-      "dateString": "Feb 04, 2022 6:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "TBD",
-      "dateString": "Feb 05, 2022 6:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Bain Beakley",
-      "dateString": "Feb 06, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Wayne Delair",
-      "dateString": "Feb 07, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Bri Rivera",
-      "dateString": "Feb 08, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Scott Curtis",
-      "dateString": "Feb 09, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Scott Curtis",
-      "dateString": "Feb 10, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "TBD",
-      "dateString": "Feb 11, 2022 6:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Philharmonica and Tracy T's ",
-      "dateString": "Feb 12, 2022 6:00PM"
-    },
-    {
-      "venue": "Marina Jack",
       "band": "Bain Beakley ",
       "dateString": "Feb 13, 2022 5:00PM"
     },
@@ -68,6 +13,11 @@
     {
       "venue": "Marina Jack",
       "band": "Matt Dendy",
+      "dateString": "Feb 14, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Wayne Delair",
       "dateString": "Feb 14, 2022 5:00PM"
     },
     {
@@ -249,6 +199,56 @@
       "venue": "Marina Jack",
       "band": "Matt Dendy",
       "dateString": "Apr 25, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "Apr 26, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "Apr 29, 2022 6:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Matt Dendy",
+      "dateString": "May 02, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "May 03, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "May 06, 2022 6:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Matt Dendy",
+      "dateString": "May 09, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "May 10, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "May 13, 2022 6:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Matt Dendy",
+      "dateString": "May 16, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "May 17, 2022 5:00PM"
     }
   ]
 }

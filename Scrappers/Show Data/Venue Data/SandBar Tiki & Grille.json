@@ -12,6 +12,16 @@
     },
     {
       "venue": "SandBar Tiki & Grille",
+      "band": "Poka",
+      "dateString": "Feb 02, 2022 1:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
+      "band": "Bus Stop 3.0",
+      "dateString": "Feb 02, 2022 6:00PM"
+    },
+    {
+      "venue": "SandBar Tiki & Grille",
       "band": "Randy Stevens",
       "dateString": "Feb 03, 2022 1:00PM"
     },
@@ -109,11 +119,6 @@
       "venue": "SandBar Tiki & Grille",
       "band": "Gas House Gorillas",
       "dateString": "Feb 12, 2022 7:00PM"
-    },
-    {
-      "venue": "SandBar Tiki & Grille",
-      "band": "Paul FM",
-      "dateString": "Feb 13, 2022 6:00PM"
     },
     {
       "venue": "SandBar Tiki & Grille",

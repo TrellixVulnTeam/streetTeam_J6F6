@@ -2,16 +2,6 @@
   "shows": [
     {
       "venue": "Wild Rover Brewery",
-      "band": "Snowblind - Black Sabbath Tribute",
-      "dateString": "Feb 05, 2022 9:00PM"
-    },
-    {
-      "venue": "Wild Rover Brewery",
-      "band": "The VCRs",
-      "dateString": "Feb 12, 2022 8:00PM"
-    },
-    {
-      "venue": "Wild Rover Brewery",
       "band": "Molly Takedown",
       "dateString": "Feb 18, 2022 8:00PM"
     },
@@ -149,6 +139,26 @@
       "venue": "Wild Rover Brewery",
       "band": "The VCRs",
       "dateString": "Jun 11, 2022 8:00PM"
+    },
+    {
+      "venue": "Wild Rover Brewery",
+      "band": "Jaded - Aerosmith Tribute",
+      "dateString": "Jun 18, 2022 9:00PM"
+    },
+    {
+      "venue": "Wild Rover Brewery",
+      "band": "The Horny Toads",
+      "dateString": "Jun 24, 2022 8:00PM"
+    },
+    {
+      "venue": "Wild Rover Brewery",
+      "band": "SYNR",
+      "dateString": "Jun 25, 2022 8:00PM"
+    },
+    {
+      "venue": "Wild Rover Brewery",
+      "band": "Led Zep - Led Zeppelin Tribute",
+      "dateString": "Jul 02, 2022 9:00PM"
     }
   ]
 }

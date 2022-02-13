@@ -2,41 +2,6 @@
   "shows": [
     {
       "venue": "TJ Carney's",
-      "band": "Ken McBride \u201cHimself\u201d",
-      "dateString": "Feb 02, 2022 6:30PM"
-    },
-    {
-      "venue": "TJ Carney's",
-      "band": "Mike Imbasciani and His Bluez Rockerz",
-      "dateString": "Feb 04, 2022 7:00PM"
-    },
-    {
-      "venue": "TJ Carney's",
-      "band": "Mike Imbasciani and His Bluez Rockerz",
-      "dateString": "Feb 04, 2022 8:00PM"
-    },
-    {
-      "venue": "TJ Carney's",
-      "band": "Mike Imbasciani and His Bluez Rockerz",
-      "dateString": "Feb 05, 2022 8:00PM"
-    },
-    {
-      "venue": "TJ Carney's",
-      "band": "DooWop Denny",
-      "dateString": "Feb 06, 2022 6:30PM"
-    },
-    {
-      "venue": "TJ Carney's",
-      "band": "Ken McBride \u201cHimself\u201d",
-      "dateString": "Feb 09, 2022 6:30PM"
-    },
-    {
-      "venue": "TJ Carney's",
-      "band": "Phoenix Rising",
-      "dateString": "Feb 11, 2022 8:00PM"
-    },
-    {
-      "venue": "TJ Carney's",
       "band": "DooWop Denny",
       "dateString": "Feb 13, 2022 6:30PM"
     },
@@ -129,6 +94,31 @@
       "venue": "TJ Carney's",
       "band": "Ken McBride \u201cHimself\u201d",
       "dateString": "Mar 23, 2022 6:30PM"
+    },
+    {
+      "venue": "TJ Carney's",
+      "band": "DooWop Denny",
+      "dateString": "Mar 27, 2022 6:30PM"
+    },
+    {
+      "venue": "TJ Carney's",
+      "band": "Ken McBride \u201cHimself\u201d",
+      "dateString": "Mar 30, 2022 6:30PM"
+    },
+    {
+      "venue": "TJ Carney's",
+      "band": "Mike Imbasciani and His Bluez Rockerz",
+      "dateString": "Apr 01, 2022 7:00PM"
+    },
+    {
+      "venue": "TJ Carney's",
+      "band": "Mike Imbasciani and His Bluez Rockerz",
+      "dateString": "Apr 01, 2022 8:00PM"
+    },
+    {
+      "venue": "TJ Carney's",
+      "band": "DooWop Denny",
+      "dateString": "Apr 03, 2022 6:30PM"
     }
   ]
 }

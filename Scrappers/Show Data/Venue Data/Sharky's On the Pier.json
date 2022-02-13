@@ -2,53 +2,8 @@
   "shows": [
     {
       "venue": "Sharky's On the Pier",
-      "band": "David Moore",
-      "dateString": "Feb 02, 2022 6:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "David Moore",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "BTY Express",
-      "dateString": "Feb 04, 2022 7:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "New Kollections",
-      "dateString": "Feb 05, 2022 7:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "Tropix",
-      "dateString": "Feb 06, 2022 6:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "David Moore",
-      "dateString": "Feb 09, 2022 6:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "David Moore",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "Chameleon",
-      "dateString": "Feb 11, 2022 7:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "License to Chill",
-      "dateString": "Feb 12, 2022 7:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
-      "band": "Sean Phillips",
-      "dateString": "Feb 13, 2022 6:00PM"
+      "band": "Trinidudes",
+      "dateString": "Feb 13, 2022 5:00PM"
     },
     {
       "venue": "Sharky's On the Pier",
@@ -99,6 +54,26 @@
       "venue": "Sharky's On the Pier",
       "band": "David Moore",
       "dateString": "Feb 23, 2022 6:00PM"
+    },
+    {
+      "venue": "Sharky's On the Pier",
+      "band": "David Moore",
+      "dateString": "Feb 24, 2022 6:00PM"
+    },
+    {
+      "venue": "Sharky's On the Pier",
+      "band": "New Kollections",
+      "dateString": "Feb 25, 2022 7:00PM"
+    },
+    {
+      "venue": "Sharky's On the Pier",
+      "band": "Deep Blu",
+      "dateString": "Feb 26, 2022 7:00PM"
+    },
+    {
+      "venue": "Sharky's On the Pier",
+      "band": "Trinidudes",
+      "dateString": "Feb 27, 2022 6:00PM"
     }
   ]
 }

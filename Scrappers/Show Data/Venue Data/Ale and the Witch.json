@@ -2,26 +2,6 @@
   "shows": [
     {
       "venue": "Ale and the Witch",
-      "band": "James Suggs and the Jazzy Associates (Jeremy Douglas - Keys,  Steve Boisen - Upright Bass and Dave Rudolph - drums)",
-      "dateString": "Feb 03, 2022 7:00PM"
-    },
-    {
-      "venue": "Ale and the Witch",
-      "band": "Rich Whiteley Trio ",
-      "dateString": "Feb 04, 2022 7:00PM"
-    },
-    {
-      "venue": "Ale and the Witch",
-      "band": "Ashley Smith and the Random Occurrence",
-      "dateString": "Feb 11, 2022 7:00PM"
-    },
-    {
-      "venue": "Ale and the Witch",
-      "band": "Rob Pieniak",
-      "dateString": "Feb 12, 2022 4:00PM"
-    },
-    {
-      "venue": "Ale and the Witch",
       "band": "The Joint Chiefs",
       "dateString": "Feb 18, 2022 7:00PM"
     },
@@ -49,6 +29,41 @@
       "venue": "Ale and the Witch",
       "band": "Jonathan Scales Fourchestra",
       "dateString": "Feb 27, 2022 4:30PM"
+    },
+    {
+      "venue": "Ale and the Witch",
+      "band": "Rebekah Pulley w/ Rob Pastore (Tuesdays in March)",
+      "dateString": "Mar 01, 2022 7:00PM"
+    },
+    {
+      "venue": "Ale and the Witch",
+      "band": "Row Jomah",
+      "dateString": "Mar 04, 2022 7:00PM"
+    },
+    {
+      "venue": "Ale and the Witch",
+      "band": "Albert Castiglia ",
+      "dateString": "Mar 05, 2022 4:00PM"
+    },
+    {
+      "venue": "Ale and the Witch",
+      "band": "Rebekah Pulley w/ Rob Pastore (Tuesdays in March)",
+      "dateString": "Mar 08, 2022 7:00PM"
+    },
+    {
+      "venue": "Ale and the Witch",
+      "band": "Rob Tyre & The Hot Wheels (Ashley & Taylor Galbraith)",
+      "dateString": "Mar 10, 2022 7:00PM"
+    },
+    {
+      "venue": "Ale and the Witch",
+      "band": "Fearsome Foursome (Rich Whitley - Dan DeGregory - John Sabal - TJ Glowacki)",
+      "dateString": "Mar 11, 2022 7:00PM"
+    },
+    {
+      "venue": "Ale and the Witch",
+      "band": "Someday Honey",
+      "dateString": "Mar 12, 2022 4:00PM"
     }
   ]
 }

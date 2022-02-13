@@ -2,98 +2,8 @@
   "shows": [
     {
       "venue": "Toasted Monkey",
-      "band": "Billy Agans",
-      "dateString": "Feb 02, 2022 7:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Carlos & Joe",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Stormbringer",
-      "dateString": "Feb 04, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Fix The DJ",
-      "dateString": "Feb 04, 2022 10:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Hurricane Shane ",
-      "dateString": "Feb 05, 2022 1:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Stongrey",
-      "dateString": "Feb 05, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Fix The DJ",
-      "dateString": "Feb 05, 2022 10:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Big Brother ",
-      "dateString": "Feb 06, 2022 1:30PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Rum Jumbies ",
-      "dateString": "Feb 06, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Sarah Diamond ",
-      "dateString": "Feb 07, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Jon Di Renzo",
-      "dateString": "Feb 08, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Billy Agans",
-      "dateString": "Feb 09, 2022 7:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Doug South Band",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Griswolds",
-      "dateString": "Feb 11, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Fix The DJ",
-      "dateString": "Feb 11, 2022 10:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Swipe Right ",
-      "dateString": "Feb 12, 2022 1:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Billy Agans",
-      "dateString": "Feb 12, 2022 7:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Fix The DJ",
-      "dateString": "Feb 12, 2022 10:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
       "band": "Pink Streets",
-      "dateString": "Feb 13, 2022 1:00PM"
+      "dateString": "Feb 13, 2023 1:00PM"
     },
     {
       "venue": "Toasted Monkey",
@@ -149,6 +59,96 @@
       "venue": "Toasted Monkey",
       "band": "Taylor Jansen Band",
       "dateString": "Feb 20, 2022 1:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Elle & Company",
+      "dateString": "Feb 20, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Sarah Diamond ",
+      "dateString": "Feb 21, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Christian & Richard Duo",
+      "dateString": "Feb 22, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Jason Parker Duo",
+      "dateString": "Feb 23, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Doug South Band",
+      "dateString": "Feb 24, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Conspiracy Band",
+      "dateString": "Feb 25, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Fix The DJ",
+      "dateString": "Feb 25, 2022 10:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "The Torpedoes",
+      "dateString": "Feb 26, 2022 1:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Kingpin",
+      "dateString": "Feb 26, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Fix The DJ",
+      "dateString": "Feb 26, 2022 10:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Project Y",
+      "dateString": "Feb 27, 2022 1:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Casey Allen Duo",
+      "dateString": "Feb 27, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Jeremy Thomas ",
+      "dateString": "Feb 28, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Sebastian ",
+      "dateString": "Mar 01, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Billy Agans",
+      "dateString": "Mar 02, 2022 7:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Carlos & Joe",
+      "dateString": "Mar 03, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Stormbringer ",
+      "dateString": "Mar 04, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Fix The DJ",
+      "dateString": "Mar 04, 2022 10:00PM"
     }
   ]
 }

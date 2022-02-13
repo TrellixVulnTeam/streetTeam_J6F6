@@ -2,31 +2,6 @@
   "shows": [
     {
       "venue": "New World Brewery",
-      "band": "George Hertzel",
-      "dateString": "Feb 04, 2022 7:30PM"
-    },
-    {
-      "venue": "New World Brewery",
-      "band": "Alex Borst",
-      "dateString": "Feb 05, 2022 7:30PM"
-    },
-    {
-      "venue": "New World Brewery",
-      "band": "Sam Williams (surf noir/spy-fi soundtracks)",
-      "dateString": "Feb 06, 2022 5:30PM"
-    },
-    {
-      "venue": "New World Brewery",
-      "band": "Jonas Woodstock (Appalachian folk rock n' soul)",
-      "dateString": "Feb 11, 2022 7:30PM"
-    },
-    {
-      "venue": "New World Brewery",
-      "band": "Andrew Rohlk",
-      "dateString": "Feb 12, 2022 7:30PM"
-    },
-    {
-      "venue": "New World Brewery",
       "band": "Scott Clay",
       "dateString": "Feb 13, 2022 5:30PM"
     },
@@ -34,6 +9,16 @@
       "venue": "New World Brewery",
       "band": "Deb Ruby Trio (singer-songwriter)",
       "dateString": "Feb 18, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "dj bRIAN oBLIVION",
+      "dateString": "Feb 19, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "Este Loves",
+      "dateString": "Feb 20, 2022 5:30PM"
     },
     {
       "venue": "New World Brewery",
@@ -57,6 +42,26 @@
     },
     {
       "venue": "New World Brewery",
+      "band": "Carnivorous Plant Pop-Up Shop",
+      "dateString": "Mar 06, 2022 1:00PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "Gozadera (Latin dance party)",
+      "dateString": "Mar 06, 2022 2:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "Kevin Earle Siebel + Jamie McElman (singer-songwriter)",
+      "dateString": "Mar 11, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "Greg Milo (singer-songwriter)",
+      "dateString": "Mar 12, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
       "band": "Pamela Jo Band (bluegrass)",
       "dateString": "Mar 13, 2022 5:30PM"
     },
@@ -67,8 +72,28 @@
     },
     {
       "venue": "New World Brewery",
+      "band": "Reverend Red + Matthew From the Colonies",
+      "dateString": "Mar 26, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "June Bunch",
+      "dateString": "Mar 27, 2022 5:30PM"
+    },
+    {
+      "venue": "New World Brewery",
       "band": "Dean Johanesen (folk/Americana/hot jazz)",
       "dateString": "Apr 01, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "Jamie McElman & Steve Prince (singer-songwriter)",
+      "dateString": "Apr 08, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "Alex Borst (singer-songwriter)",
+      "dateString": "Apr 09, 2022 7:30PM"
     }
   ]
 }

@@ -53,10 +53,11 @@ def runAll(url):
 
     band_name = driver.find_element(By.CLASS_NAME, '_2nzteM_uGca2Jnei9WwoIO').text.strip()
 
-    show_more_button = driver.find_element(By.CLASS_NAME, '_1GaeyllMT79LYiH-6HrT56')
+    time.sleep(2)
+    show_more_button = driver.find_element(By.XPATH, '//*[@id="main"]/div/div/div[2]/div[2]/div[3]/div[1]/div[3]/div[2]/div/div[2]/div')
     show_more_button.click()
 
-    all_events = driver.find_element(By.CLASS_NAME, 'qznXLxZY-XWcgeMFMR1So')
+    all_events = driver.find_element(By.CLASS_NAME, '_2rDT0wujxspQFu4Ozs7_yJ')
 
     div = all_events.find_element(By.TAG_NAME, 'div')
     links_tags = div.find_elements(By.TAG_NAME, 'a')

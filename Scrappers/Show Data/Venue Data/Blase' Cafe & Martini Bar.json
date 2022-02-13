@@ -2,51 +2,6 @@
   "shows": [
     {
       "venue": "Blase' Cafe & Martini Bar",
-      "band": "Chris Connolly",
-      "dateString": "Feb 02, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Bobby Schneck",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Callie Chappell & the Whole Band",
-      "dateString": "Feb 04, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Ron Kraemer",
-      "dateString": "Feb 06, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Jamie Tremps",
-      "dateString": "Feb 07, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Chris Connolly",
-      "dateString": "Feb 09, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Bobby Schneck",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Callie Chappell & the Whole Band",
-      "dateString": "Feb 11, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Zack Yoder group",
-      "dateString": "Feb 12, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
       "band": "Ron Kraemer",
       "dateString": "Feb 13, 2022 6:00PM"
     },
@@ -67,6 +22,11 @@
     },
     {
       "venue": "Blase' Cafe & Martini Bar",
+      "band": "Joe Bernui",
+      "dateString": "Feb 13, 2022 4:00PM"
+    },
+    {
+      "venue": "Blase' Cafe & Martini Bar",
       "band": "Zack yoder Group",
       "dateString": "Feb 17, 2022 6:00PM"
     },
@@ -77,7 +37,7 @@
     },
     {
       "venue": "Blase' Cafe & Martini Bar",
-      "band": "TBD",
+      "band": "Doctor Drive",
       "dateString": "Feb 19, 2022 6:00PM"
     },
     {
@@ -117,7 +77,7 @@
     },
     {
       "venue": "Blase' Cafe & Martini Bar",
-      "band": "TBD",
+      "band": "Zack Yoder group",
       "dateString": "Feb 26, 2022 6:00PM"
     },
     {

@@ -1,3 +1,54 @@
 {
-  "shows": []
+  "shows": [
+    {
+      "venue": "Drunken Clam",
+      "band": "BOB HOPE",
+      "dateString": "Feb 15, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "ALEX CENTANO",
+      "dateString": "Feb 16, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "BILLY AGANS",
+      "dateString": "Feb 17, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "JACKSON",
+      "dateString": "Feb 18, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "TRIP N BECCA BAND",
+      "dateString": "Feb 19, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "TRIP N BECCA",
+      "dateString": "Feb 22, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "CHRIS LEFEVER",
+      "dateString": "Feb 23, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "TRIP N BECCA BAND",
+      "dateString": "Feb 24, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "TYSON MARSHALL BAND",
+      "dateString": "Feb 25, 2022 7:00PM"
+    },
+    {
+      "venue": "Drunken Clam",
+      "band": "DAVE PERRI BAND",
+      "dateString": "Feb 26, 2022 7:00PM"
+    }
+  ]
 }

@@ -2,91 +2,6 @@
   "shows": [
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Bus Stop",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Jariah Higgins",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Wyatt Edmondson",
-      "dateString": "Feb 04, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Koko Ray",
-      "dateString": "Feb 04, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "John McRae",
-      "dateString": "Feb 05, 2022 12:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Rob Stoney ",
-      "dateString": "Feb 05, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Sax N' Beats",
-      "dateString": "Feb 05, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Pantastic Duo",
-      "dateString": "Feb 06, 2022 12:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Travis Williams",
-      "dateString": "Feb 06, 2022 2:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Shaun Hopper",
-      "dateString": "Feb 06, 2022 6:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Connor Zwetsch",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "BSTREETBAND",
-      "dateString": "Feb 10, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Red House Duo",
-      "dateString": "Feb 11, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Risky Business Band",
-      "dateString": "Feb 11, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Chris Walker Duo",
-      "dateString": "Feb 12, 2022 1:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "The Stevie Nicks Experience",
-      "dateString": "Feb 12, 2022 8:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Rob Irie",
-      "dateString": "Feb 12, 2022 8:30PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "Impulse",
       "dateString": "Feb 13, 2022 1:00PM"
     },
@@ -102,22 +17,22 @@
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Pete & Jack",
-      "dateString": "Feb 17, 2022 6:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "John O'Leary",
       "dateString": "Feb 17, 2022 6:00PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Paul Fournier",
-      "dateString": "Feb 18, 2022 8:00PM"
+      "band": "Pete & Jack",
+      "dateString": "Feb 17, 2022 6:00PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "Southern Rocks Finest",
+      "dateString": "Feb 18, 2022 8:00PM"
+    },
+    {
+      "venue": "Seminole Hard Rock Hotel & Casino",
+      "band": "Paul Fournier",
       "dateString": "Feb 18, 2022 8:00PM"
     },
     {
@@ -127,12 +42,12 @@
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Jarryd Dollard",
+      "band": "Displace",
       "dateString": "Feb 19, 2022 8:00PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Displace",
+      "band": "Jarryd Dollard",
       "dateString": "Feb 19, 2022 8:00PM"
     },
     {
@@ -157,13 +72,13 @@
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Red House Duo",
-      "dateString": "Feb 25, 2022 8:00PM"
+      "band": "Fast Fashion",
+      "dateString": "Feb 25, 2022 7:30PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Fast Fashion",
-      "dateString": "Feb 25, 2022 7:30PM"
+      "band": "Red House Duo",
+      "dateString": "Feb 25, 2022 8:00PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
@@ -189,6 +104,11 @@
       "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "Frankie Raye",
       "dateString": "Feb 27, 2022 2:00PM"
+    },
+    {
+      "venue": "Seminole Hard Rock Hotel & Casino",
+      "band": "Jared Violin",
+      "dateString": "Feb 27, 2022 6:00PM"
     }
   ]
 }

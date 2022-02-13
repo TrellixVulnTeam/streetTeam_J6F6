@@ -142,6 +142,7 @@ mattisons_city_html = driver.page_source
 page_source_array.append(mattisons_city_html)
 mattisons_city.click()
 
+
 mattisons_river = driver.find_element_by_xpath('//*[@id="tkQpTb"]/div/div[11]/li/label/div[1]/div/div')
 mattisons_river.click()
 Time.sleep(2)
@@ -240,13 +241,6 @@ def run(venue_source, venue_name):
                 split_name1 = name.text.split(sep=' |', maxsplit=1)[0]
                 split_name1 = split_name1.split(sep=' @', maxsplit=1)[0]
                 
-                if venue_name == '3 Keys Brewing':
-                    try:
-                        split_name1 = split_name1.split(sep = '/ ', maxsplit=1)[1]
-                    except:
-                        print(split_name1)
-                        pass
-                
                 try:
                     '''Bahi Hut FIX'''
                     split_name1 = split_name1.split(sep='Music: ', maxsplit=1)[1]
@@ -276,6 +270,10 @@ def run(venue_source, venue_name):
 
                 this_time = parse(show_date)
                 date_string = '{:%b %d, %Y %-I:%M%p}'.format(this_time)
+
+                print(venue_name)
+                print(band_name)
+                print(date_string)
 
                 try:
                     showDict = {}
@@ -308,7 +306,7 @@ run(ale_and_witch_html, "Ale and the Witch")
 run(keys_brewing_html, "3 Keys Brewing")
 run(dockside_html, "Dockside")
 run(gilligans_html, "Gilligan's Island Bar & Grill")
-run(mattisons_city_html, "Mattison's City Grille")
+run(hula_bay_html, "Hula Bay Club")
 run(woodys_html, "Woody's River Roo")
 run(bahi_hut_html, "Bahi Hut")
 run(drunken_clam_html, "Drunken Clam")
@@ -319,5 +317,3 @@ run(motorworks_html, "Motorworks Brewing")
 run(new_world_html, "New World Brewery")
 run(wild_rover_html, "Wild Rover Brewery")
 run(tj_carney_html, "TJ Carney's")
-
-

@@ -2,53 +2,8 @@
   "shows": [
     {
       "venue": "88 Live Piano Bar",
-      "band": "The Boomers Band Bradenton",
-      "dateString": "Feb 02, 2022 7:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Dueling pianos with, Tommy & Dave",
-      "dateString": "Feb 04, 2022 12:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Dueling pianos with Steve & Dave",
-      "dateString": "Feb 05, 2022 8:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "22N",
-      "dateString": "Feb 06, 2022 5:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
       "band": "Tropix Band",
-      "dateString": "Feb 02, 2022 8:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Billy Rice Band",
-      "dateString": "Feb 09, 2022 7:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "301 Travelers",
-      "dateString": "Feb 10, 2022 7:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Dueling pianos with the Unessentials (Gavin & Emily) (RR) adult content",
-      "dateString": "Feb 11, 2022 8:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Dueling pianos with, Tommy & Kevin",
-      "dateString": "Feb 12, 2022 8:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Tropix Band",
-      "dateString": "Feb 02, 2023 3:00PM"
+      "dateString": "Feb 13, 2022 3:00PM"
     },
     {
       "venue": "88 Live Piano Bar",
@@ -68,7 +23,7 @@
     {
       "venue": "88 Live Piano Bar",
       "band": "Dueling pianos with Tommy & Jordan",
-      "dateString": "Feb 02, 2022 7:00PM"
+      "dateString": "Feb 13, 2022 7:00PM"
     },
     {
       "venue": "88 Live Piano Bar",
@@ -152,6 +107,11 @@
     },
     {
       "venue": "88 Live Piano Bar",
+      "band": "STR8 EDGE",
+      "dateString": "Apr 24, 2022 5:00PM"
+    },
+    {
+      "venue": "88 Live Piano Bar",
       "band": "The Boomers Band Bradenton",
       "dateString": "May 04, 2022 7:00PM"
     },
@@ -159,6 +119,16 @@
       "venue": "88 Live Piano Bar",
       "band": "The Boomers Band Bradenton",
       "dateString": "May 18, 2022 7:00PM"
+    },
+    {
+      "venue": "88 Live Piano Bar",
+      "band": "The Boomers Band Bradenton",
+      "dateString": "Jun 15, 2022 7:00PM"
+    },
+    {
+      "venue": "88 Live Piano Bar",
+      "band": "The Boomers Band Bradenton",
+      "dateString": "Jul 20, 2022 7:00PM"
     }
   ]
 }

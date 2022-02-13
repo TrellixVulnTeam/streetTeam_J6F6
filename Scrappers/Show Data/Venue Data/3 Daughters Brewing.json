@@ -2,46 +2,6 @@
   "shows": [
     {
       "venue": "3 Daughters Brewing",
-      "band": "Symmetry",
-      "dateString": "Feb 04, 2022 8:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "Acoustic Thunder",
-      "dateString": "Feb 05, 2022 1:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "Stormbringer",
-      "dateString": "Feb 05, 2022 8:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "LC Williams & The Driver",
-      "dateString": "Feb 06, 2022 2:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "Chris McCarty",
-      "dateString": "Feb 08, 2022 6:30PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "#NoFilter",
-      "dateString": "Feb 11, 2022 8:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "Celtic Conundrum",
-      "dateString": "Feb 12, 2022 1:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "More is More Band",
-      "dateString": "Feb 12, 2022 8:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
       "band": "Chris McCarty",
       "dateString": "Feb 15, 2022 6:30PM"
     },
@@ -49,11 +9,6 @@
       "venue": "3 Daughters Brewing",
       "band": "Applebutter Express",
       "dateString": "Feb 18, 2022 8:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "The Stillhouse Shakers",
-      "dateString": "Feb 19, 2022 1:00PM"
     },
     {
       "venue": "3 Daughters Brewing",
@@ -89,6 +44,11 @@
       "venue": "3 Daughters Brewing",
       "band": "The Relics",
       "dateString": "Feb 27, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Fat Tuesday Crawfish Boil at 3 Daughters Brewing",
+      "dateString": "Mar 01, 2022 6:00PM"
     },
     {
       "venue": "3 Daughters Brewing",
@@ -163,6 +123,11 @@
     {
       "venue": "3 Daughters Brewing",
       "band": "Tasty Vibrations",
+      "dateString": "Mar 26, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Zack Biss",
       "dateString": "Mar 26, 2022 1:00PM"
     },
     {
@@ -692,28 +657,13 @@
     },
     {
       "venue": "3 Daughters Brewing",
-      "band": "Wellington Classic Brew Fest",
-      "dateString": "Feb 05, 2022 2:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "Luekens Tasting at Seminole",
-      "dateString": "Feb 05, 2022 3:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "WOB Westchase Run Club",
-      "dateString": "Feb 08, 2022 6:30PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "American Social Tasting",
-      "dateString": "Feb 12, 2022 1:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
       "band": "The Blind Goat Tampa",
       "dateString": "Feb 26, 2022 3:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Tasting at Pups Pub Tampa",
+      "dateString": "Mar 12, 2022 12:00PM"
     }
   ]
 }

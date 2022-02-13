@@ -2,21 +2,6 @@
   "shows": [
     {
       "venue": "Bahi Hut",
-      "band": "Johnny Awesome",
-      "dateString": "Feb 05, 2022 7:00PM"
-    },
-    {
-      "venue": "Bahi Hut",
-      "band": "Evan Eastmoore",
-      "dateString": "Feb 11, 2022 7:00PM"
-    },
-    {
-      "venue": "Bahi Hut",
-      "band": "Marko Coconut",
-      "dateString": "Feb 12, 2022 7:00PM"
-    },
-    {
-      "venue": "Bahi Hut",
       "band": "Shawn Brown",
       "dateString": "Feb 19, 2022 7:00PM"
     },
@@ -42,7 +27,7 @@
     },
     {
       "venue": "Bahi Hut",
-      "band": "Sarasota By Parrot Heads Meet (open to public)",
+      "band": "Sarasota Bay Parrot Heads Meet (open to public)",
       "dateString": "Mar 10, 2022 6:00PM"
     },
     {
@@ -54,6 +39,16 @@
       "venue": "Bahi Hut",
       "band": "Charles Parker",
       "dateString": "Mar 12, 2022 7:00PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Sundown",
+      "dateString": "Mar 19, 2022 7:30PM"
+    },
+    {
+      "venue": "Bahi Hut",
+      "band": "Beach Bum Barry",
+      "dateString": "Mar 25, 2022 7:00PM"
     }
   ]
 }

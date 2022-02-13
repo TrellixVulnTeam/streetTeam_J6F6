@@ -2,32 +2,7 @@
   "shows": [
     {
       "venue": "3 Keys Brewing",
-      "band": "Michael J Weiss",
-      "dateString": "Feb 04, 2022 7:00PM"
-    },
-    {
-      "venue": "3 Keys Brewing",
-      "band": "the Sinewaves Band",
-      "dateString": "Feb 05, 2022 7:00PM"
-    },
-    {
-      "venue": "3 Keys Brewing",
-      "band": "You Had Me At Aloe - Succulent Workshop",
-      "dateString": "Feb 06, 2022 12:00PM"
-    },
-    {
-      "venue": "3 Keys Brewing",
-      "band": "Chris Warner",
-      "dateString": "Feb 11, 2022 7:00PM"
-    },
-    {
-      "venue": "3 Keys Brewing",
-      "band": "The Boomers",
-      "dateString": "Feb 12, 2022 7:00PM"
-    },
-    {
-      "venue": "3 Keys Brewing",
-      "band": "Celtica",
+      "band": "Live Music W/ Celtica",
       "dateString": "Feb 18, 2022 7:00PM"
     },
     {
@@ -37,48 +12,73 @@
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Little Big Show",
+      "band": "Live Music W/ Little Big Show",
       "dateString": "Feb 19, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Jay Taylor",
+      "band": "Live Music w/ Jay Taylor",
       "dateString": "Feb 25, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Liquid Courage",
+      "band": "Live Music W/ Liquid Courage",
       "dateString": "Feb 26, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Mike Williams",
+      "band": "Live Music W/ Mike Williams",
       "dateString": "Mar 04, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Eireann's Call",
+      "band": "Live Music w/ Eireann's Call",
       "dateString": "Mar 05, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Cabana Dogs",
+      "band": "Live Music w/ Cabana Dogs",
       "dateString": "Mar 11, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Rob Hamm & the Daily Specials ",
+      "band": "Live Music w/ Rob Hamm & the Daily Specials ",
       "dateString": "Mar 12, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "Michael J Weiss",
+      "band": "Live Music W/ Michael J Weiss",
       "dateString": "Mar 18, 2022 7:00PM"
     },
     {
       "venue": "3 Keys Brewing",
-      "band": "The Schmitz Brothers",
+      "band": "Live Music W/ The Schmitz Brothers",
       "dateString": "Mar 19, 2022 7:00PM"
+    },
+    {
+      "venue": "3 Keys Brewing",
+      "band": "Live Music W/ Danielle Mohr",
+      "dateString": "Mar 25, 2022 7:00PM"
+    },
+    {
+      "venue": "3 Keys Brewing",
+      "band": "Live Music W/ Devin Neel",
+      "dateString": "Mar 26, 2022 7:00PM"
+    },
+    {
+      "venue": "3 Keys Brewing",
+      "band": "Live Music w/ Rob Hamm",
+      "dateString": "Apr 01, 2022 7:00PM"
+    },
+    {
+      "venue": "3 Keys Brewing",
+      "band": "Live Music W/ Silverback Band",
+      "dateString": "Apr 02, 2022 7:00PM"
+    },
+    {
+      "venue": "3 Keys Brewing",
+      "band": "SunCoast Blood Center Battle of the Breweries: A Pint for a Pint ",
+      "dateString": "Apr 03, 2022 11:00AM"
     }
   ]
 }

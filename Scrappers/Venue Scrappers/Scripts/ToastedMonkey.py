@@ -34,7 +34,7 @@ def run():
     chrome_options = Options()
     chrome_options.add_argument("--headless") 
     chrome_options.add_argument('--no-sandbox')
-    driver = webdriver.Chrome(options=chrome_options, executable_path='/Users/nathanhedgeman/Documents/Scrappers/chromedriver')
+    driver = webdriver.Chrome(options=chrome_options, executable_path='/Volumes/Work/Face2Face/Xity/streetTeam/Scrappers/chromedriver')
     driver.get(url)
 
     driver.switch_to.frame('timely_initiated_0f')

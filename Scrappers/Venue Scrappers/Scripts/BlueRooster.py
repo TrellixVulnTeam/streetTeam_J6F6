@@ -9,7 +9,6 @@ from dateutil import parser
 import datetime
 import os
 import json
-import OhmicityShared
 
 #For keyboard key programmatic control
 from selenium.webdriver.common.keys import Keys
@@ -17,22 +16,18 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
 # %%
 #Properties
 url = "https://blueroostersrq.com/music/list"
-time = Time
-shows_array = []
-venue_name = "Blue Rooster"
-ex_array = [
-    'CLOSED'
-]
+shows = []
+venue_array = []
 
 # %%
 def run():
-    chrome_options = Options()
-    chrome_options.add_argument("--headless") 
-    chrome_options.add_argument('--no-sandbox')
-    driver = webdriver.Chrome(options=chrome_options, executable_path='/Users/nathanhedgeman/Documents/Scrappers/chromedriver')
+    #Navigate Site with Selenium
+    #Get List View
+    driver = webdriver.Chrome(ChromeDriverManager().install())
     driver.get(url)
     driver.set_window_size(1500, 1500)
     Time.sleep(3)
@@ -62,10 +57,6 @@ def run():
         
         if not name:
             continue
-
-        '''!!!!!FILTER!!!!!!'''
-        if any([x in name for x in ex_array]): 
-            continue
         
         strip_name = name.strip()
         
@@ -87,31 +78,34 @@ def run():
 
         try:
             showDict = {}
-            showDict['venue'] = venue_name
             showDict['band'] = band_name
             showDict['dateString'] = date_string
-            shows_array.append(showDict)
+            shows.append(showDict)
 
-        except:
-            print(venue_name + ': DATA MODEL ERROR')
+        except AttributeError as ex:
+            print('Error', ex)
 
-    # %%
-    #Export as JSON
-    shows = {}
-    shows['shows'] = shows_array
+
+    driver.quit
+    
+    #Create JSON Structure
+    venDict = {}
+    venDict['venueName'] = venue_name
+    venDict['shows'] = shows
+    
+    venue_array = [venDict]
+    finalDict = {}
+    finalDict['venue'] = venue_array
 
     #Save To json file
-    save_path = OhmicityShared.ohmicity_shared.venue_data_path
+    save_path = '/Users/nathanhedgeman/Documents/Scrappers/Show Data'
     file_name = venue_name + '.json'
     complete_name = os.path.join(save_path, file_name)
 
     file = open(complete_name, 'w')
-    file.write(json.dumps(shows, indent = 2))
+    file.write(json.dumps(finalDict, indent = 2))
     file.close()
-    print(f"{venue_name} Complete!")
-
-
-
+    print("Complete!")
 
 # %%
 run()

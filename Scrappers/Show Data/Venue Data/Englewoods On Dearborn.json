@@ -1,0 +1,93 @@
+{
+  "venue": [
+    {
+      "venueName": "Englewoods On Dearborn",
+      "shows": [
+        {
+          "band": "Kraig Kenning",
+          "dateString": "Feb 15, 2022 6:00PM"
+        },
+        {
+          "band": "Damon Fowler",
+          "dateString": "Feb 16, 2022 7:00PM"
+        },
+        {
+          "band": "The Drifter Kings",
+          "dateString": "Feb 17, 2022 7:00PM"
+        },
+        {
+          "band": "Ricky Valido",
+          "dateString": "Feb 18, 2022 7:00PM"
+        },
+        {
+          "band": "Doug Deming & The Jewel Tones",
+          "dateString": "Feb 19, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Lightning",
+          "dateString": "Feb 22, 2022 6:00PM"
+        },
+        {
+          "band": "The Lucky Losers Band",
+          "dateString": "Feb 24, 2022 7:00PM"
+        },
+        {
+          "band": "Paisley Craze",
+          "dateString": "Feb 25, 2022 7:00PM"
+        },
+        {
+          "band": "Torched Band",
+          "dateString": "Feb 26, 2022 7:00PM"
+        },
+        {
+          "band": "Sister Lucille",
+          "dateString": "Mar 02, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Mar 05, 2022 7:00PM"
+        },
+        {
+          "band": "Slim and The Perkolators",
+          "dateString": "Mar 16, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Apr 02, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "May 07, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Jun 04, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Jul 02, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Aug 06, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Sep 03, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Oct 01, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Nov 05, 2022 7:00PM"
+        },
+        {
+          "band": "Memphis Rub Band",
+          "dateString": "Dec 03, 2022 7:00PM"
+        }
+      ]
+    }
+  ]
+}

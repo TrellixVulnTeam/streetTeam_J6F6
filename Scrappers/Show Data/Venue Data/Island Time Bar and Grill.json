@@ -2,66 +2,6 @@
   "shows": [
     {
       "venue": "Island Time Bar and Grill",
-      "band": "Brian McCarthy",
-      "dateString": "Feb 02, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Bobby James",
-      "dateString": "Feb 03, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Bedlam",
-      "dateString": "Feb 04, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Dr Dave Band",
-      "dateString": "Feb 05, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Dan Signor",
-      "dateString": "Feb 06, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Chris Warner",
-      "dateString": "Feb 07, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Mike Williams",
-      "dateString": "Feb 08, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "John Bastiani",
-      "dateString": "Feb 09, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Virgil Cain",
-      "dateString": "Feb 10, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Mojo Filter",
-      "dateString": "Feb 11, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Taylor Opie",
-      "dateString": "Feb 12, 2022 1:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Jack'D Up",
-      "dateString": "Feb 12, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
       "band": "SUPERBOWL SUNDAY",
       "dateString": "Feb 13, 2022 7:00PM"
     },
@@ -199,6 +139,66 @@
       "venue": "Island Time Bar and Grill",
       "band": "Dos Macs",
       "dateString": "Mar 09, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Stockton Bros",
+      "dateString": "Mar 10, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Midnight Mama",
+      "dateString": "Mar 11, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Part-time Genius",
+      "dateString": "Mar 12, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "steve mazzetta",
+      "dateString": "Mar 13, 2022 1:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Concrete Edgar",
+      "dateString": "Mar 13, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Bobby James",
+      "dateString": "Mar 14, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Jay Brown",
+      "dateString": "Mar 15, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Kelsey Miles",
+      "dateString": "Mar 16, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "301 Travelers trio",
+      "dateString": "Mar 17, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Darra & the Detours",
+      "dateString": "Mar 18, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Tommy D",
+      "dateString": "Mar 19, 2022 1:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Dr Dave Band",
+      "dateString": "Mar 19, 2022 7:00PM"
     }
   ]
 }

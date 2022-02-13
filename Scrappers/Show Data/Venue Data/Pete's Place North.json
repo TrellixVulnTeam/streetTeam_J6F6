@@ -2,18 +2,13 @@
   "shows": [
     {
       "venue": "Pete's Place North",
-      "band": "Jezabelle",
-      "dateString": "Feb 04, 2022 8:00PM"
-    },
-    {
-      "venue": "Pete's Place North",
-      "band": "Buzz Factor",
-      "dateString": "Feb 11, 2022 7:00PM"
-    },
-    {
-      "venue": "Pete's Place North",
       "band": "Whiskey Throttle",
       "dateString": "Feb 26, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "3 Foot Circle",
+      "dateString": "Mar 05, 2022 7:00PM"
     },
     {
       "venue": "Pete's Place North",

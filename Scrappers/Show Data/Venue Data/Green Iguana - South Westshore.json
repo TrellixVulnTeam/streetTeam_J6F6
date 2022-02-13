@@ -2,111 +2,6 @@
   "shows": [
     {
       "venue": "Green Iguana - South Westshore",
-      "band": "Alex Centeno",
-      "dateString": "Feb 02, 2022 9:30PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Ben Bryan",
-      "dateString": "Feb 02, 2022 6:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Aaron Marmolejos",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Joe Tracy",
-      "dateString": "Feb 04, 2022 6:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Sound Machine duo",
-      "dateString": "Feb 04, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Sound Machine duo",
-      "dateString": "Feb 05, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Johnny B",
-      "dateString": "Feb 05, 2022 5:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": " Brian Caudill band",
-      "dateString": "Feb 05, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": " Brian Caudill band",
-      "dateString": "Feb 06, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Artie Z",
-      "dateString": "Feb 07, 2022 5:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Aaron Marmolejos",
-      "dateString": "Feb 07, 2022 9:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Aaron Marmolejos",
-      "dateString": "Feb 08, 2022 9:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Jay Brown",
-      "dateString": "Feb 08, 2022 9:30PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Jay Brown",
-      "dateString": "Feb 09, 2022 9:30PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Alex Centeno",
-      "dateString": "Feb 09, 2022 6:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Marcello Mello",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Rob K solo",
-      "dateString": "Feb 11, 2022 6:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "David Potts duo",
-      "dateString": "Feb 11, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "David Potts duo",
-      "dateString": "Feb 12, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Johnny B",
-      "dateString": "Feb 12, 2022 5:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Bad Combo",
-      "dateString": "Feb 12, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
       "band": "Bad Combo",
       "dateString": "Feb 13, 2022 10:00PM"
     },
@@ -117,7 +12,7 @@
     },
     {
       "venue": "Green Iguana - South Westshore",
-      "band": "Jon Ditty",
+      "band": "Aaron Marmolejos",
       "dateString": "Feb 14, 2022 9:00PM"
     },
     {
@@ -139,6 +34,111 @@
       "venue": "Green Iguana - South Westshore",
       "band": "Kyle Rhodes",
       "dateString": "Feb 17, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Wade Slater solo",
+      "dateString": "Feb 18, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Stumble Fox",
+      "dateString": "Feb 18, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Stumble Fox",
+      "dateString": "Feb 19, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Johnny B",
+      "dateString": "Feb 19, 2022 5:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Alex Centano duo",
+      "dateString": "Feb 19, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Alex Centano duo",
+      "dateString": "Feb 20, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "J Santi",
+      "dateString": "Feb 20, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Artie Z",
+      "dateString": "Feb 21, 2022 5:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Aaron Marmolejos",
+      "dateString": "Feb 21, 2022 9:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Aaron Marmolejos",
+      "dateString": "Feb 22, 2022 9:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Alex Centeno",
+      "dateString": "Feb 23, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Marcello Mello",
+      "dateString": "Feb 24, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Rob K solo",
+      "dateString": "Feb 25, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Ian & Will",
+      "dateString": "Feb 25, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Ian & Will",
+      "dateString": "Feb 26, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Johnny B",
+      "dateString": "Feb 26, 2022 5:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Acoustic Thunder",
+      "dateString": "Feb 26, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Acoustic Thunder",
+      "dateString": "Feb 27, 2022 10:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Jon Direnzo",
+      "dateString": "Feb 27, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Artie Z",
+      "dateString": "Feb 28, 2022 5:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Aaron Marmolejos",
+      "dateString": "Feb 28, 2022 9:00PM"
     }
   ]
 }

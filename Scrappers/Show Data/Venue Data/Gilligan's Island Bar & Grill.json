@@ -2,86 +2,6 @@
   "shows": [
     {
       "venue": "Gilligan's Island Bar & Grill",
-      "band": "MIKE TOZIER",
-      "dateString": "Feb 02, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "ROB VIOLA",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "CHRIS OTTO",
-      "dateString": "Feb 04, 2022 1:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "NICK LEVALLY BAND",
-      "dateString": "Feb 04, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "ZAC, AL, JP, & GARRETT",
-      "dateString": "Feb 05, 2022 1:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "TED STEVENS",
-      "dateString": "Feb 05, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "DROP DEAD DANGEROUS (DUO)",
-      "dateString": "Feb 06, 2022 1:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "NICK LEVALLY (TRIO)",
-      "dateString": "Feb 06, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "RODNEY SHENK",
-      "dateString": "Feb 07, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "RPM LIVE",
-      "dateString": "Feb 08, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "DEVEN STARR",
-      "dateString": "Feb 09, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "RPM LIVE",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "CHRIS OTTO",
-      "dateString": "Feb 11, 2022 1:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "NICK LEVALLY (TRIO)",
-      "dateString": "Feb 11, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "ZAC, AL, JP, & GARRETT",
-      "dateString": "Feb 12, 2022 1:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
-      "band": "KARATE IN THE GARAGE",
-      "dateString": "Feb 12, 2022 6:00PM"
-    },
-    {
-      "venue": "Gilligan's Island Bar & Grill",
       "band": "NICK LEVALLY (DUO)",
       "dateString": "Feb 13, 2022 1:00PM"
     },
@@ -127,8 +47,18 @@
     },
     {
       "venue": "Gilligan's Island Bar & Grill",
+      "band": "Mike Kach, Greg Polous & Friends",
+      "dateString": "Feb 19, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
       "band": "VIRGIL CAIN",
       "dateString": "Feb 20, 2022 1:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "DIRTY BRYD",
+      "dateString": "Feb 20, 2022 6:00PM"
     },
     {
       "venue": "Gilligan's Island Bar & Grill",
@@ -149,6 +79,81 @@
       "venue": "Gilligan's Island Bar & Grill",
       "band": "RPM LIVE",
       "dateString": "Feb 24, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "CHRIS OTTO",
+      "dateString": "Feb 25, 2022 1:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "KARATE IN THE GARAGE",
+      "dateString": "Feb 25, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "ZAC, AL, JP, & GARRETT",
+      "dateString": "Feb 26, 2022 1:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "TED STEVENS",
+      "dateString": "Feb 26, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "ISLAND HOPPERS",
+      "dateString": "Feb 27, 2022 1:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "DIRTY BRYD",
+      "dateString": "Feb 27, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "RODNEY SHENK",
+      "dateString": "Feb 28, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "RPM LIVE",
+      "dateString": "Mar 01, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "MIKE TOZIER",
+      "dateString": "Mar 02, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "RPM LIVE",
+      "dateString": "Mar 03, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "CHRIS OTTO",
+      "dateString": "Mar 04, 2022 1:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "ZAC, AL, JP, & GARRETT",
+      "dateString": "Mar 05, 2022 1:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "RODNEY SHENK",
+      "dateString": "Mar 07, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "RPM LIVE",
+      "dateString": "Mar 08, 2022 6:00PM"
+    },
+    {
+      "venue": "Gilligan's Island Bar & Grill",
+      "band": "DEVEN STARR",
+      "dateString": "Mar 09, 2022 6:00PM"
     }
   ]
 }

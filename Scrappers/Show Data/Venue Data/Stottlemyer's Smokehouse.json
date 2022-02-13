@@ -2,33 +2,13 @@
   "shows": [
     {
       "venue": "Stottlemyer's Smokehouse",
-      "band": "Old Glory Band",
-      "dateString": "Feb 02, 2022 6:00PM"
-    },
-    {
-      "venue": "Stottlemyer's Smokehouse",
-      "band": "Charles Parker",
-      "dateString": "Feb 03, 2022 6:00PM"
-    },
-    {
-      "venue": "Stottlemyer's Smokehouse",
-      "band": "! Scarlet Drive !",
-      "dateString": "Feb 05, 2022 7:00PM"
-    },
-    {
-      "venue": "Stottlemyer's Smokehouse",
-      "band": "Kettle Of Fish",
-      "dateString": "Feb 06, 2022 3:00PM"
-    },
-    {
-      "venue": "Stottlemyer's Smokehouse",
-      "band": "Reckless Deriver",
-      "dateString": "Feb 10, 2022 6:00PM"
-    },
-    {
-      "venue": "Stottlemyer's Smokehouse",
       "band": "Kettle Of Fish",
       "dateString": "Feb 13, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Michael Nichols",
+      "dateString": "Feb 14, 2022 5:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",
@@ -42,18 +22,23 @@
     },
     {
       "venue": "Stottlemyer's Smokehouse",
-      "band": "Kettle Of Fish",
-      "dateString": "Feb 20, 2022 4:00PM"
+      "band": "Dwayne Geib",
+      "dateString": "Feb 19, 2022 3:15PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",
       "band": "Smudgekitten",
-      "dateString": "Feb 02, 2022 8:00PM"
+      "dateString": "Feb 13, 2022 8:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",
       "band": "Kettle Of Fish",
       "dateString": "Feb 27, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Charles Parker",
+      "dateString": "Mar 02, 2022 6:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",
@@ -99,6 +84,11 @@
       "venue": "Stottlemyer's Smokehouse",
       "band": "Kettle Of Fish",
       "dateString": "Apr 03, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Jack'D Up",
+      "dateString": "Apr 07, 2022 6:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",
@@ -157,6 +147,11 @@
     },
     {
       "venue": "Stottlemyer's Smokehouse",
+      "band": "Jack'D Up",
+      "dateString": "May 21, 2022 7:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
       "band": "Kettle Of Fish",
       "dateString": "May 22, 2022 4:00PM"
     },
@@ -174,6 +169,11 @@
       "venue": "Stottlemyer's Smokehouse",
       "band": "Kettle Of Fish",
       "dateString": "Jun 05, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Jack'D Up",
+      "dateString": "Jun 09, 2022 6:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",
@@ -284,6 +284,11 @@
       "venue": "Stottlemyer's Smokehouse",
       "band": "Kettle Of Fish",
       "dateString": "Sep 18, 2022 4:00PM"
+    },
+    {
+      "venue": "Stottlemyer's Smokehouse",
+      "band": "Jack'D Up",
+      "dateString": "Sep 24, 2022 7:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",

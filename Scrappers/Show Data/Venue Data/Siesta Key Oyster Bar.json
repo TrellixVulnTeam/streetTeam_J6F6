@@ -2,26 +2,6 @@
   "shows": [
     {
       "venue": "Siesta Key Oyster Bar",
-      "band": "Kettle Of Fish",
-      "dateString": "Feb 02, 2022 7:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Dana Lawrence of Kettle of Fish",
-      "dateString": "Feb 03, 2022 2:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Kettle Of Fish",
-      "dateString": "Feb 09, 2022 7:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Dana Lawrence of Kettle of Fish",
-      "dateString": "Feb 10, 2022 2:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
       "band": "Jordy Christo",
       "dateString": "Feb 14, 2022 1:00PM"
     },
@@ -44,6 +24,11 @@
       "venue": "Siesta Key Oyster Bar",
       "band": "Dana Lawrence of Kettle of Fish",
       "dateString": "Feb 24, 2022 2:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Joe Bernui",
+      "dateString": "Feb 28, 2022 1:00PM"
     },
     {
       "venue": "Siesta Key Oyster Bar",

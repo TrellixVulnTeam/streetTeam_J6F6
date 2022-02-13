@@ -9,7 +9,6 @@ from dateutil.parser import parse
 import datetime
 import os
 import json
-import OhmicityShared
 
 #For keyboard key programmatic control
 from selenium.webdriver.common.keys import Keys
@@ -22,7 +21,7 @@ from selenium.webdriver.support import expected_conditions as EC
 #Properties
 url = "https://plugin.eventscalendar.co/widget.html?pageId=eog1c&compId=comp-kiumcfk0&viewerCompId=comp-kiumcfk0&siteRevision=230&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&regionalLanguage=en&width=980&height=598&instance=RFhWqjMr3NMY4DCZtqXhI4QOJ-Z3kSXQmJvXwivrsgw.eyJpbnN0YW5jZUlkIjoiYWY1MTI0ZTgtMWQ3YS00YmVjLWExNmMtMzQ5YzI3ZDUzNGRlIiwiYXBwRGVmSWQiOiIxMzNiYjExZS1iM2RiLTdlM2ItNDliYy04YWExNmFmNzJjYWMiLCJzaWduRGF0ZSI6IjIwMjEtMTAtMzFUMDE6MDE6MDEuMTgyWiIsInZlbmRvclByb2R1Y3RJZCI6InByZW1pdW0iLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6Ijk0MmVlMjA2LWI1OTctNDU2Ni1hMzE1LTI3YmJhMjZjZDY4MSIsInNpdGVPd25lcklkIjoiMTA0OWY1MjEtZGM2MS00ODdkLTgzNmQtMmM5N2UwMTljODdmIn0&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22:%22wix%22,%22bsi%22:%2273584552-62d1-4a21-995a-a6d4f631f332%7C1%22,%22BSI%22:%2273584552-62d1-4a21-995a-a6d4f631f332%7C1%22%7D&vsi=8fcac177-1c1a-411b-ac18-9e14336e8e3a"
 time = Time
-shows_array = []
+shows = []
 venue_array = []
 
 # %%
@@ -74,28 +73,34 @@ def run():
 
             try:
                 showDict = {}
-                showDict['venue'] = venue_name
                 showDict['band'] = band_name
                 showDict['dateString'] = date_string
-                shows_array.append(showDict)
+                shows.append(showDict)
 
-            except:
-                print(venue_name + ': DATA MODEL ERROR')
+            except AttributeError as ex:
+                print('Error', ex)
 
-    # %%
-    #Export as JSON
-    shows = {}
-    shows['shows'] = shows_array
+
+    driver.quit
+    
+    #Create JSON Structure
+    venDict = {}
+    venDict['venueName'] = venue_name
+    venDict['shows'] = shows
+    
+    venue_array = [venDict]
+    finalDict = {}
+    finalDict['venue'] = venue_array
 
     #Save To json file
-    save_path = OhmicityShared.ohmicity_shared.venue_data_path
+    save_path = '/Users/nathanhedgeman/Documents/Scrappers/Show Data'
     file_name = venue_name + '.json'
     complete_name = os.path.join(save_path, file_name)
 
     file = open(complete_name, 'w')
-    file.write(json.dumps(shows, indent = 2))
+    file.write(json.dumps(finalDict, indent = 2))
     file.close()
-    print(f"{venue_name} Complete!")
+    print("Complete!")
 
 
 

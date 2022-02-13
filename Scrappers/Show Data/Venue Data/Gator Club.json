@@ -7,7 +7,7 @@
     },
     {
       "venue": "Gator Club",
-      "band": "! Scarlet Drive !",
+      "band": "Scarlet Drive",
       "dateString": "Mar 12, 2022 9:30PM"
     },
     {
@@ -27,8 +27,13 @@
     },
     {
       "venue": "Gator Club",
-      "band": "! Scarlet Drive !",
+      "band": "Scarlet Drive",
       "dateString": "Apr 02, 2022 7:00PM"
+    },
+    {
+      "venue": "Gator Club",
+      "band": "-22N-",
+      "dateString": "Apr 22, 2022 9:30PM"
     },
     {
       "venue": "Gator Club",
@@ -37,7 +42,7 @@
     },
     {
       "venue": "Gator Club",
-      "band": "! Scarlet Drive !",
+      "band": "Scarlet Drive",
       "dateString": "Apr 30, 2022 8:00PM"
     },
     {
@@ -73,7 +78,7 @@
     {
       "venue": "Gator Club",
       "band": "Jack'D Up",
-      "dateString": "Dec 02, 2022 11:00PM"
+      "dateString": "Dec 13, 2022 11:00PM"
     }
   ]
 }
