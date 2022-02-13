@@ -2,26 +2,6 @@
   "shows": [
     {
       "venue": "Green Iguana - South Westshore",
-      "band": "Stick Martin & Jon Ditty",
-      "dateString": "Jan 30, 2022 10:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Artie Z",
-      "dateString": "Jan 31, 2022 5:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Aaron Marmolejos",
-      "dateString": "Jan 31, 2022 9:00PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
-      "band": "Alex Centeno",
-      "dateString": "Feb 01, 2022 9:30PM"
-    },
-    {
-      "venue": "Green Iguana - South Westshore",
       "band": "Alex Centeno",
       "dateString": "Feb 02, 2022 9:30PM"
     },
@@ -139,6 +119,26 @@
       "venue": "Green Iguana - South Westshore",
       "band": "Jon Ditty",
       "dateString": "Feb 14, 2022 9:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Nora Ricci",
+      "dateString": "Feb 15, 2022 9:30PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Nora Ricci",
+      "dateString": "Feb 16, 2022 9:30PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Ben Bryan",
+      "dateString": "Feb 16, 2022 6:00PM"
+    },
+    {
+      "venue": "Green Iguana - South Westshore",
+      "band": "Kyle Rhodes",
+      "dateString": "Feb 17, 2022 6:00PM"
     }
   ]
 }

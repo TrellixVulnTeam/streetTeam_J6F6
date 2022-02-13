@@ -27,11 +27,13 @@ LIST OF BANDS:
 2: Jah Movement
 3: Ariella
 4: Sarah Diamond
-5: 
+5: Scott Clay
+6:
 '''
 
 urls = [
     'https://www.bandsintown.com/a/8596214-selwyn-birchwood-band?', 'https://www.bandsintown.com/a/4009595-jah-movement?', 'https://www.bandsintown.com/a/2470649', 'https://www.bandsintown.com/a/1710060-ariella?',
+    'https://www.bandsintown.com/a/8711265-scott-clay?',
     
 ]
 

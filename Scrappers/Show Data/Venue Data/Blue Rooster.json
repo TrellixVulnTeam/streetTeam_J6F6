@@ -2,11 +2,6 @@
   "shows": [
     {
       "venue": "Blue Rooster",
-      "band": "Backtrack Blues Band",
-      "dateString": "Jan 29, 2022 8:00PM"
-    },
-    {
-      "venue": "Blue Rooster",
       "band": "Ariella Duo",
       "dateString": "Feb 01, 2022 7:00PM"
     },
@@ -47,7 +42,7 @@
     },
     {
       "venue": "Blue Rooster",
-      "band": "Jose\u2019 Ramirez Band",
+      "band": "Ariella Duet",
       "dateString": "Feb 12, 2022 8:00PM"
     },
     {
@@ -129,6 +124,11 @@
       "venue": "Blue Rooster",
       "band": "Southern Buffet Gospel Brunch with Shantel Norman and Joycelyn Corbert",
       "dateString": "Mar 06, 2022 11:15AM"
+    },
+    {
+      "venue": "Blue Rooster",
+      "band": "Al Fuller Blues Jam",
+      "dateString": "Mar 09, 2022 7:30PM"
     }
   ]
 }

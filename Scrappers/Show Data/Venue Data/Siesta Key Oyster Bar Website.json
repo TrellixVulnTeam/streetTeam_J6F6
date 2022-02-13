@@ -2,53 +2,18 @@
   "shows": [
     {
       "venue": "Siesta Key Oyster Bar",
-      "band": "Vince Colaiocco",
-      "dateString": "Jan 30, 2022 10:00PM"
+      "band": "Justin Layman",
+      "dateString": "Feb 02, 2022 1:00PM"
     },
     {
       "venue": "Siesta Key Oyster Bar",
-      "band": "Souvenir",
-      "dateString": "Jan 30, 2022 2:00PM"
+      "band": "Kettle of Fish",
+      "dateString": "Feb 02, 2022 7:00PM"
     },
     {
       "venue": "Siesta Key Oyster Bar",
-      "band": "Little Giants",
-      "dateString": "Jan 30, 2022 7:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Vince Colaiocco",
-      "dateString": "Jan 30, 2022 10:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Souvenir",
-      "dateString": "Jan 30, 2022 2:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Little Giants",
-      "dateString": "Jan 30, 2022 7:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "TBD",
-      "dateString": "Jan 31, 2022 1:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Al Donadi",
-      "dateString": "Jan 31, 2022 7:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Josh Gilton",
-      "dateString": "Feb 01, 2022 1:00PM"
-    },
-    {
-      "venue": "Siesta Key Oyster Bar",
-      "band": "Open Mic",
-      "dateString": "Feb 01, 2022 7:00PM"
+      "band": "Dana Lawrence",
+      "dateString": "Feb 03, 2022 2:00PM"
     },
     {
       "venue": "Siesta Key Oyster Bar",
@@ -89,6 +54,41 @@
       "venue": "Siesta Key Oyster Bar",
       "band": "Steve Mazzetta",
       "dateString": "Feb 05, 2022 3:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Mike Tozier",
+      "dateString": "Feb 05, 2022 8:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Mike Tozier",
+      "dateString": "Feb 06, 2022 10:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Rob Viola",
+      "dateString": "Feb 06, 2022 2:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Little Giants",
+      "dateString": "Feb 06, 2022 7:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Frankie Lombardi",
+      "dateString": "Feb 07, 2022 1:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Al Donadi",
+      "dateString": "Feb 07, 2022 7:00PM"
+    },
+    {
+      "venue": "Siesta Key Oyster Bar",
+      "band": "Gary Dilley",
+      "dateString": "Feb 08, 2022 1:00PM"
     }
   ]
 }

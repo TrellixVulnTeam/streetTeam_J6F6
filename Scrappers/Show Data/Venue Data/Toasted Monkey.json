@@ -2,36 +2,6 @@
   "shows": [
     {
       "venue": "Toasted Monkey",
-      "band": "The Ordeal",
-      "dateString": "Jan 29, 2023 1:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Motel Funk",
-      "dateString": "Jan 29, 2023 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Project Y",
-      "dateString": "Jan 30, 2022 1:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Jason Parker Duo",
-      "dateString": "Jan 30, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Sarah Diamond ",
-      "dateString": "Jan 31, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
-      "band": "Larry Mott ",
-      "dateString": "Feb 01, 2022 6:00PM"
-    },
-    {
-      "venue": "Toasted Monkey",
       "band": "Billy Agans",
       "dateString": "Feb 02, 2022 7:00PM"
     },
@@ -149,6 +119,36 @@
       "venue": "Toasted Monkey",
       "band": "Carlos & Joe",
       "dateString": "Feb 17, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Spazmatics",
+      "dateString": "Feb 18, 2022 7:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Fix The DJ",
+      "dateString": "Feb 18, 2022 10:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Griswolds",
+      "dateString": "Feb 19, 2022 1:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Phoenix",
+      "dateString": "Feb 19, 2022 6:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Fix The DJ",
+      "dateString": "Feb 19, 2022 10:00PM"
+    },
+    {
+      "venue": "Toasted Monkey",
+      "band": "Taylor Jansen Band",
+      "dateString": "Feb 20, 2022 1:00PM"
     }
   ]
 }

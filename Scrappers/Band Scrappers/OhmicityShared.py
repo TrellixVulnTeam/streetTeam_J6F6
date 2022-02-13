@@ -1,12 +1,64 @@
 
 class ohmicity_shared:
-    venue_array = [
 
-        '210', "Blue Rooster", 'Burger-ish', "River Roo", "Cage Brewing", "Cask & Ale", "Cask and Ale", "Coconut", "Cottonmouth", "Daiquiri Deck Raw Bar Siesta Key", "Darwin Brewing", "Del Frisco", "Dockside", "Drunken Clam",
-        "Englewoods On Dearborn", "Floridian Social Club", "Flute & Dram", "Gator Club", "Gilligan", "Green Iguana", "Hideaway", "Independent Bar St Petersburg", "Independent Bar and Cafe Tampa", "Island Time Bar and Grill",
-        "Joyland", "Mad Hatters", "Marina Jack", "Mattison's City Grille", "Mattison's Riverwalk Grille", "Motorworks Brewing", "New World Brewery", "O'Brien", "Pete's Place North", "Ringside Cafe", "Ruby's Elixir",
-        "SandBar", "Hard Rock", "Sharky", "Siesta Key Oyster Bar", "Skipper", "St Pete Side Lot", "Stottlemyer", "Straggler", "TJ Carney", "Tamiami Tap", "The Castle", "The Pub Tampa Bay", "The Tavern At Bayboro",
-        "Whiskey Barrel", "Whiskey Wings - St Peterburg", "Toasted Monkey", "White Elephant Pub", "Wild Rover Brewery", 
+    venue_array = [
+        '210', 
+        "blue rooster", 
+        'burger-ish', 
+        "river roo", 
+        "cage brewing", 
+        "cask & ale", 
+        "cask and ale", 
+        "coconut", 
+        "cottonmouth", 
+        "daiquiri deck raw bar siesta key", 
+        "darwin", 
+        "del frisco", 
+        "dockside", 
+        "drunken clam",
+        "dearborn", 
+        "floridian social club", 
+        "flute", 
+        "gator club",
+        "gilligan", 
+        "green iguana", 
+        "hideaway", 
+        "hula bay", 
+        "independent bar st petersburg", 
+        "independent bar and cafe tampa", 
+        "island time",
+        "joyland", 
+        "hatters", 
+        "marina jack", 
+        "mattison's city grille", 
+        "mattison's riverwalk grille", 
+        "motorworks", 
+        "new world brewery", 
+        "o'brien", 
+        "pete's place north", 
+        "ringside cafe", 
+        "ruby's elixir",
+        "sandBar", 
+        "hard rock", 
+        "sharky", 
+        "siesta key oyster bar", 
+        "skipper", 
+        "st pete side lot", 
+        "stottlemyer", 
+        "straggler", 
+        "tj carney", 
+        "tamiami tap", 
+        "the castle", 
+        "the pub tampa bay", 
+        "the tavern at bayboro",
+        "whiskey barrel", 
+        "whiskey wings - st peterburg", 
+        "toasted monkey", 
+        "white elephant pub", 
+        "wild rover brewery"
     ]
-    
+
     band_data_path = '/Volumes/Work/Face2Face/Xity/streetTeam/Scrappers/Show Data/Band Data'
+    venue_data_path = '/Volumes/Work/Face2Face/Xity/streetTeam/Scrappers/Show Data/Venue Data'
+    
+    

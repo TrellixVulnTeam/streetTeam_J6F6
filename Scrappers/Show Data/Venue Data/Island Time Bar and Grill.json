@@ -2,16 +2,6 @@
   "shows": [
     {
       "venue": "Island Time Bar and Grill",
-      "band": "Albert Bashor",
-      "dateString": "Jan 31, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
-      "band": "Sandbar Soul",
-      "dateString": "Feb 01, 2022 7:00PM"
-    },
-    {
-      "venue": "Island Time Bar and Grill",
       "band": "Brian McCarthy",
       "dateString": "Feb 02, 2022 7:00PM"
     },
@@ -194,6 +184,21 @@
       "venue": "Island Time Bar and Grill",
       "band": "Dan Signor",
       "dateString": "Mar 06, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Chris Warner",
+      "dateString": "Mar 07, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Brian McCarthy",
+      "dateString": "Mar 08, 2022 7:00PM"
+    },
+    {
+      "venue": "Island Time Bar and Grill",
+      "band": "Dos Macs",
+      "dateString": "Mar 09, 2022 7:00PM"
     }
   ]
 }

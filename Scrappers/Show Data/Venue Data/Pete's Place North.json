@@ -2,11 +2,6 @@
   "shows": [
     {
       "venue": "Pete's Place North",
-      "band": "Proper Wednesday",
-      "dateString": "Jan 29, 2023 7:00PM"
-    },
-    {
-      "venue": "Pete's Place North",
       "band": "Jezabelle",
       "dateString": "Feb 04, 2022 8:00PM"
     },
@@ -57,6 +52,11 @@
     },
     {
       "venue": "Pete's Place North",
+      "band": "Buzz Factor",
+      "dateString": "Jun 03, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
       "band": "Johnny Blevins Band",
       "dateString": "Jun 25, 2022 7:00PM"
     },
@@ -64,6 +64,11 @@
       "venue": "Pete's Place North",
       "band": "Undercover Rasta",
       "dateString": "Jul 01, 2022 7:00PM"
+    },
+    {
+      "venue": "Pete's Place North",
+      "band": "Proper Wednesday",
+      "dateString": "Nov 05, 2022 7:00PM"
     }
   ]
 }

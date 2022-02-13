@@ -2,21 +2,6 @@
   "shows": [
     {
       "venue": "Blase' Cafe & Martini Bar",
-      "band": "Doctor Drive",
-      "dateString": "Jan 29, 2023 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Ron Kraemer",
-      "dateString": "Jan 30, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
-      "band": "Zack Yoder",
-      "dateString": "Feb 01, 2022 6:00PM"
-    },
-    {
-      "venue": "Blase' Cafe & Martini Bar",
       "band": "Chris Connolly",
       "dateString": "Feb 02, 2022 6:00PM"
     },

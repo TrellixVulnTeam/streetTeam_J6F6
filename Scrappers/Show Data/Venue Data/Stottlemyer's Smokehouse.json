@@ -2,11 +2,6 @@
   "shows": [
     {
       "venue": "Stottlemyer's Smokehouse",
-      "band": "Kettle Of Fish",
-      "dateString": "Jan 30, 2022 4:00PM"
-    },
-    {
-      "venue": "Stottlemyer's Smokehouse",
       "band": "Old Glory Band",
       "dateString": "Feb 02, 2022 6:00PM"
     },
@@ -28,12 +23,7 @@
     {
       "venue": "Stottlemyer's Smokehouse",
       "band": "Reckless Deriver",
-      "dateString": "Feb 10, 2022 7:00PM"
-    },
-    {
-      "venue": "Stottlemyer's Smokehouse",
-      "band": "-22N-",
-      "dateString": "Feb 12, 2022 7:00PM"
+      "dateString": "Feb 10, 2022 6:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",
@@ -58,7 +48,7 @@
     {
       "venue": "Stottlemyer's Smokehouse",
       "band": "Smudgekitten",
-      "dateString": "Feb 28, 2022 8:00PM"
+      "dateString": "Feb 02, 2022 8:00PM"
     },
     {
       "venue": "Stottlemyer's Smokehouse",

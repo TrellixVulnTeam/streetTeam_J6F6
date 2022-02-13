@@ -2,16 +2,6 @@
   "shows": [
     {
       "venue": "3 Daughters Brewing",
-      "band": "The Torpedoes",
-      "dateString": "Jan 30, 2022 2:00PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
-      "band": "Chris McCarty",
-      "dateString": "Feb 01, 2022 6:30PM"
-    },
-    {
-      "venue": "3 Daughters Brewing",
       "band": "Symmetry",
       "dateString": "Feb 04, 2022 8:00PM"
     },
@@ -699,6 +689,31 @@
       "venue": "3 Daughters Brewing",
       "band": "Chris McCarty",
       "dateString": "Dec 27, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Wellington Classic Brew Fest",
+      "dateString": "Feb 05, 2022 2:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "Luekens Tasting at Seminole",
+      "dateString": "Feb 05, 2022 3:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "WOB Westchase Run Club",
+      "dateString": "Feb 08, 2022 6:30PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "American Social Tasting",
+      "dateString": "Feb 12, 2022 1:00PM"
+    },
+    {
+      "venue": "3 Daughters Brewing",
+      "band": "The Blind Goat Tampa",
+      "dateString": "Feb 26, 2022 3:00PM"
     }
   ]
 }

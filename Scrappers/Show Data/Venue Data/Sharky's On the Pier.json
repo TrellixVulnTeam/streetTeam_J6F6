@@ -2,11 +2,6 @@
   "shows": [
     {
       "venue": "Sharky's On the Pier",
-      "band": "Trinidudes",
-      "dateString": "Jan 30, 2022 6:00PM"
-    },
-    {
-      "venue": "Sharky's On the Pier",
       "band": "David Moore",
       "dateString": "Feb 02, 2022 6:00PM"
     },
@@ -99,6 +94,11 @@
       "venue": "Sharky's On the Pier",
       "band": "Dave Signs",
       "dateString": "Feb 22, 2022 6:00PM"
+    },
+    {
+      "venue": "Sharky's On the Pier",
+      "band": "David Moore",
+      "dateString": "Feb 23, 2022 6:00PM"
     }
   ]
 }

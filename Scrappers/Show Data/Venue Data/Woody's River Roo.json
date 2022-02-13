@@ -2,11 +2,6 @@
   "shows": [
     {
       "venue": "Woody's River Roo",
-      "band": "SOUL R COASTER",
-      "dateString": "Jan 30, 2022 1:00PM"
-    },
-    {
-      "venue": "Woody's River Roo",
       "band": "STEVE PARIDIS",
       "dateString": "Feb 04, 2022 4:00PM"
     },
@@ -189,6 +184,16 @@
       "venue": "Woody's River Roo",
       "band": "ELECTRIC SOUL THERAPY",
       "dateString": "Mar 17, 2022 6:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
+      "band": "STEVE PARIDIS",
+      "dateString": "Mar 18, 2022 4:00PM"
+    },
+    {
+      "venue": "Woody's River Roo",
+      "band": "K-LUV",
+      "dateString": "Mar 18, 2022 7:00PM"
     }
   ]
 }

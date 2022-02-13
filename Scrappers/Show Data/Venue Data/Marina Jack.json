@@ -3,21 +3,6 @@
     {
       "venue": "Marina Jack",
       "band": "Scott Curtis",
-      "dateString": "Jan 30, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Bri Rivera",
-      "dateString": "Jan 31, 2022 6:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Bri Rivera",
-      "dateString": "Feb 01, 2022 5:00PM"
-    },
-    {
-      "venue": "Marina Jack",
-      "band": "Scott Curtis",
       "dateString": "Feb 02, 2022 5:00PM"
     },
     {
@@ -249,6 +234,21 @@
       "venue": "Marina Jack",
       "band": "Matt Dendy",
       "dateString": "Apr 18, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "Apr 19, 2022 5:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Bri Rivera",
+      "dateString": "Apr 22, 2022 6:00PM"
+    },
+    {
+      "venue": "Marina Jack",
+      "band": "Matt Dendy",
+      "dateString": "Apr 25, 2022 5:00PM"
     }
   ]
 }

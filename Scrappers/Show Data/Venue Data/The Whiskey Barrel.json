@@ -2,21 +2,6 @@
   "shows": [
     {
       "venue": "The Whiskey Barrel",
-      "band": "Jack Berry",
-      "dateString": "Jan 30, 2022 12:00PM"
-    },
-    {
-      "venue": "The Whiskey Barrel",
-      "band": "Evan Eastmoore",
-      "dateString": "Jan 30, 2022 5:00PM"
-    },
-    {
-      "venue": "The Whiskey Barrel",
-      "band": "Steve Sipes",
-      "dateString": "Feb 01, 2022 5:00PM"
-    },
-    {
-      "venue": "The Whiskey Barrel",
       "band": "James Albritton",
       "dateString": "Feb 04, 2022 4:00PM"
     },

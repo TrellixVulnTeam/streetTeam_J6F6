@@ -2,21 +2,6 @@
   "shows": [
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Pantastic Duo",
-      "dateString": "Jan 30, 2022 12:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Ari and Nic",
-      "dateString": "Jan 30, 2022 2:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "The Little Kings ",
-      "dateString": "Jan 30, 2022 6:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "Bus Stop",
       "dateString": "Feb 03, 2022 6:00PM"
     },
@@ -117,22 +102,22 @@
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "John O'Leary",
-      "dateString": "Feb 17, 2022 6:00PM"
-    },
-    {
-      "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "Pete & Jack",
       "dateString": "Feb 17, 2022 6:00PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Southern Rocks Finest",
-      "dateString": "Feb 18, 2022 8:00PM"
+      "band": "John O'Leary",
+      "dateString": "Feb 17, 2022 6:00PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "Paul Fournier",
+      "dateString": "Feb 18, 2022 8:00PM"
+    },
+    {
+      "venue": "Seminole Hard Rock Hotel & Casino",
+      "band": "Southern Rocks Finest",
       "dateString": "Feb 18, 2022 8:00PM"
     },
     {
@@ -142,12 +127,12 @@
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Displace",
+      "band": "Jarryd Dollard",
       "dateString": "Feb 19, 2022 8:00PM"
     },
     {
       "venue": "Seminole Hard Rock Hotel & Casino",
-      "band": "Jarryd Dollard",
+      "band": "Displace",
       "dateString": "Feb 19, 2022 8:00PM"
     },
     {
@@ -189,6 +174,21 @@
       "venue": "Seminole Hard Rock Hotel & Casino",
       "band": "Vision",
       "dateString": "Feb 26, 2022 8:00PM"
+    },
+    {
+      "venue": "Seminole Hard Rock Hotel & Casino",
+      "band": "Chris McCarty",
+      "dateString": "Feb 26, 2022 8:00PM"
+    },
+    {
+      "venue": "Seminole Hard Rock Hotel & Casino",
+      "band": "Impulse",
+      "dateString": "Feb 27, 2022 1:00PM"
+    },
+    {
+      "venue": "Seminole Hard Rock Hotel & Casino",
+      "band": "Frankie Raye",
+      "dateString": "Feb 27, 2022 2:00PM"
     }
   ]
 }

@@ -2,21 +2,6 @@
   "shows": [
     {
       "venue": "88 Live Piano Bar",
-      "band": "DUELING PIANOS with, Tommy & Dave",
-      "dateString": "Jan 29, 2023 8:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Mickey White & Kat Crosby.A five piece band!! Blues and Classic Rock",
-      "dateString": "Jan 30, 2022 5:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
-      "band": "Tropix Band",
-      "dateString": "Feb 28, 2022 1:00PM"
-    },
-    {
-      "venue": "88 Live Piano Bar",
       "band": "The Boomers Band Bradenton",
       "dateString": "Feb 02, 2022 7:00PM"
     },
@@ -38,7 +23,7 @@
     {
       "venue": "88 Live Piano Bar",
       "band": "Tropix Band",
-      "dateString": "Feb 28, 2022 8:00PM"
+      "dateString": "Feb 02, 2022 8:00PM"
     },
     {
       "venue": "88 Live Piano Bar",
@@ -63,7 +48,7 @@
     {
       "venue": "88 Live Piano Bar",
       "band": "Tropix Band",
-      "dateString": "Feb 28, 2022 3:00PM"
+      "dateString": "Feb 02, 2023 3:00PM"
     },
     {
       "venue": "88 Live Piano Bar",
@@ -77,13 +62,13 @@
     },
     {
       "venue": "88 Live Piano Bar",
-      "band": "Dueling pianos with Tommy & Jordan",
+      "band": "Dueling pianos with Tommy & Steve",
       "dateString": "Feb 18, 2022 8:00PM"
     },
     {
       "venue": "88 Live Piano Bar",
       "band": "Dueling pianos with Tommy & Jordan",
-      "dateString": "Feb 28, 2022 7:00PM"
+      "dateString": "Feb 02, 2022 7:00PM"
     },
     {
       "venue": "88 Live Piano Bar",
@@ -102,12 +87,12 @@
     },
     {
       "venue": "88 Live Piano Bar",
-      "band": "THE UNESSENTIALS (Gavin & Emily) (RR) adult content",
+      "band": "DUELING PIANOS David & Sarah",
       "dateString": "Feb 25, 2022 8:00PM"
     },
     {
       "venue": "88 Live Piano Bar",
-      "band": "THE UNESSENTIALS (Gavin & Emily) RR, Adult content",
+      "band": "DUELING PIANOS Jordan & Sarah",
       "dateString": "Feb 26, 2022 8:00PM"
     },
     {
@@ -119,6 +104,11 @@
       "venue": "88 Live Piano Bar",
       "band": "Tropix Band",
       "dateString": "Mar 01, 2022 7:00PM"
+    },
+    {
+      "venue": "88 Live Piano Bar",
+      "band": "Pistols & Pearls",
+      "dateString": "Mar 02, 2022 7:00PM"
     },
     {
       "venue": "88 Live Piano Bar",

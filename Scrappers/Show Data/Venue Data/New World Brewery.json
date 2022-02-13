@@ -2,11 +2,6 @@
   "shows": [
     {
       "venue": "New World Brewery",
-      "band": "Vinyl Courtyard Session : Deejay Kellan",
-      "dateString": "Jan 30, 2022 5:30PM"
-    },
-    {
-      "venue": "New World Brewery",
       "band": "George Hertzel",
       "dateString": "Feb 04, 2022 7:30PM"
     },
@@ -47,6 +42,11 @@
     },
     {
       "venue": "New World Brewery",
+      "band": "Guianna",
+      "dateString": "Feb 26, 2022 7:30PM"
+    },
+    {
+      "venue": "New World Brewery",
       "band": "The Hummingbirds (Americana/folk)",
       "dateString": "Feb 27, 2022 5:30PM"
     },
@@ -64,6 +64,11 @@
       "venue": "New World Brewery",
       "band": "Laura Thurston (Americana/folk)",
       "dateString": "Mar 20, 2022 5:30PM"
+    },
+    {
+      "venue": "New World Brewery",
+      "band": "Dean Johanesen (folk/Americana/hot jazz)",
+      "dateString": "Apr 01, 2022 7:30PM"
     }
   ]
 }

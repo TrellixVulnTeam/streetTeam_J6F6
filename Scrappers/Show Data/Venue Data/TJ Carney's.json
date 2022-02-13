@@ -2,11 +2,6 @@
   "shows": [
     {
       "venue": "TJ Carney's",
-      "band": "DooWop Denny",
-      "dateString": "Jan 30, 2022 6:30PM"
-    },
-    {
-      "venue": "TJ Carney's",
       "band": "Ken McBride \u201cHimself\u201d",
       "dateString": "Feb 02, 2022 6:30PM"
     },
@@ -129,6 +124,11 @@
       "venue": "TJ Carney's",
       "band": "DooWop Denny",
       "dateString": "Mar 20, 2022 6:30PM"
+    },
+    {
+      "venue": "TJ Carney's",
+      "band": "Ken McBride \u201cHimself\u201d",
+      "dateString": "Mar 23, 2022 6:30PM"
     }
   ]
 }
