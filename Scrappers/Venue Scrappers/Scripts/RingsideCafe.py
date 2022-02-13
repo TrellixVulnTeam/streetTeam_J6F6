@@ -19,7 +19,7 @@ from requests import exceptions
 #    soup = BeautifulSoup(html_file, 'lxml')
 
 #From Website
-source = requests.get('ls').text
+source = requests.get('https://gotonight.com/venues/venue/?id=104').text
 soup = BeautifulSoup(source, 'lxml')
 
 # %%
