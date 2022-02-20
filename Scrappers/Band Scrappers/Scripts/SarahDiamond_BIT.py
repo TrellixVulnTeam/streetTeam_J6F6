@@ -38,7 +38,7 @@ urls = [
 ]
 
 band_name = '****************'
-
+url = 'https://www.bandsintown.com/a/2470649'
 # %%
 options = Options()
 options.headless = False
@@ -89,6 +89,7 @@ def runAll(url):
         showDict['band'] = band_name
         showDict['dateString'] = date_string
         shows_array.append(showDict)
+        time.sleep(5)
 
     shows = {}
     shows['shows'] = shows_array
@@ -106,12 +107,11 @@ def runAll(url):
     
 
 # %%
-print("Bands In Town Started")
+print(f"{band_name} Started")
 
-for url in urls:
-    runAll(url)
+runAll(url)
 
 driver.quit()
-print("Bands In Town Complete")
+print(f"{band_name} Complete")
 
 
