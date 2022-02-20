@@ -1,0 +1,54 @@
+{
+  "shows": [
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Alvis Brother Band",
+      "dateString": "Feb 21, 2022 7:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Frankie Lombardi",
+      "dateString": "Feb 22, 2022 6:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Bill Hartmann",
+      "dateString": "Feb 23, 2022 6:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Watermelon Wine",
+      "dateString": "Feb 24, 2022 7:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "The Missing Links",
+      "dateString": "Feb 25, 2022 7:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Hagar & Dugan",
+      "dateString": "Feb 26, 2022 7:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Alvis Brother Band",
+      "dateString": "Feb 28, 2022 7:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Soundwave",
+      "dateString": "Mar 18, 2022 7:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Ron Kraemer",
+      "dateString": "May 12, 2022 6:00PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse",
+      "band": "Ron Kraemer",
+      "dateString": "Jun 09, 2022 6:00PM"
+    }
+  ]
+}

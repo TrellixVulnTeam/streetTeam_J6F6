@@ -1,3 +1,44 @@
 {
-  "shows": []
+  "shows": [
+    {
+      "venue": "Gator Club",
+      "band": "Jah Movement",
+      "dateString": "Feb 24, 2022 9:30PM"
+    },
+    {
+      "venue": "Gator Club",
+      "band": "Jah Movement",
+      "dateString": "Feb 26, 2022 4:00PM"
+    },
+    {
+      "venue": "Gator Club",
+      "band": "Jah Movement",
+      "dateString": "Mar 03, 2022 9:30PM"
+    },
+    {
+      "venue": "Gator Club",
+      "band": "Jah Movement",
+      "dateString": "Mar 10, 2022 9:30PM"
+    },
+    {
+      "venue": "Gator Club",
+      "band": "Jah Movement",
+      "dateString": "Mar 17, 2022 9:30PM"
+    },
+    {
+      "venue": "Skipper's Smokehouse",
+      "band": "Jah Movement",
+      "dateString": "Mar 18, 2022 8:00PM"
+    },
+    {
+      "venue": "Gator Club",
+      "band": "Jah Movement",
+      "dateString": "Mar 24, 2022 9:30PM"
+    },
+    {
+      "venue": "Gator Club",
+      "band": "Jah Movement",
+      "dateString": "Mar 31, 2022 9:30PM"
+    }
+  ]
 }

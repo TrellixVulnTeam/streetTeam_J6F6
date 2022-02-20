@@ -95,6 +95,7 @@ def scape_urls(arr):
                         continue                   
                     
                     showDict = {}
+                    showDict['venue'] = venue_name
                     showDict['band'] = band_Name
                     showDict['dateString'] = date_string      
                     shows.append(showDict)
@@ -148,6 +149,7 @@ def scape_urls(arr):
                         continue              
                     
                     showDict = {}
+                    showDict['venue'] = venue_name
                     showDict['band'] = band_Name
                     showDict['dateString'] = date_string      
                     shows.append(showDict)
@@ -197,6 +199,7 @@ def scape_urls(arr):
                             date_string = '{:%b %d, %Y %-I:%M%p}'.format(date_time)
 
                             showDict = {}
+                            showDict['venue'] = venue_name
                             showDict['band'] = show12_name
                             showDict['dateString'] = date_string      
                             shows.append(showDict)
@@ -208,6 +211,7 @@ def scape_urls(arr):
                             date_string = '{:%b %d, %Y %-I:%M%p}'.format(date_time)
 
                             showDict = {}
+                            showDict['venue'] = venue_name
                             showDict['band'] = show5_name
                             showDict['dateString'] = date_string      
                             shows.append(showDict)
@@ -264,6 +268,7 @@ def scape_urls(arr):
                             date_string = '{:%b %d, %Y %-I:%M%p}'.format(date_time)
 
                             showDict = {}
+                            showDict['venue'] = venue_name
                             showDict['band'] = show12_name
                             showDict['dateString'] = date_string      
                             shows.append(showDict)
@@ -275,6 +280,7 @@ def scape_urls(arr):
                             date_string = '{:%b %d, %Y %-I:%M%p}'.format(date_time)
 
                             showDict = {}
+                            showDict['venue'] = venue_name
                             showDict['band'] = show4_name
                             showDict['dateString'] = date_string      
                             shows.append(showDict)
@@ -292,13 +298,8 @@ scape_urls(url_array)
 
 # %%
 #Create JSON Structure
-venDict = {}
-venDict['venueName'] = venue_name
-venDict['shows'] = shows
-
-venue_array = [venDict]
-finalDict = {}
-finalDict['venue'] = venue_array
+showDict = {}
+showDict['shows'] = shows
 
 #Save To json file
 import OhmicityShared
@@ -307,9 +308,9 @@ file_name = venue_name + '.json'
 complete_name = os.path.join(save_path, file_name)
 
 file = open(complete_name, 'w')
-file.write(json.dumps(finalDict, indent = 2))
+file.write(json.dumps(showDict, indent = 2))
 file.close()
-print("f{venue_name} Complete!")
+print(f"{venue_name} Complete!")
 
 
 

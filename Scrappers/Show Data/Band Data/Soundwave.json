@@ -1,0 +1,24 @@
+{
+  "shows": [
+    {
+      "venue": "Fraternal Order of Eagles #4424 Sara-Mana",
+      "band": "Soundwave",
+      "dateString": "Mar 04, 2022 6:00PM"
+    },
+    {
+      "venue": "Paradise Grill Nokomis",
+      "band": "Soundwave",
+      "dateString": "Mar 05, 2022 7:00PM"
+    },
+    {
+      "venue": "Nancy's BBQ Lorraine Corners",
+      "band": "Soundwave",
+      "dateString": "Mar 11, 2022 6:30PM"
+    },
+    {
+      "venue": "JR's Old Packinghouse Cafe",
+      "band": "Soundwave",
+      "dateString": "Mar 18, 2022 7:00PM"
+    }
+  ]
+}

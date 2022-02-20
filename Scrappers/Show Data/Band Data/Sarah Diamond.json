@@ -1,3 +1,114 @@
 {
-  "shows": []
+  "shows": [
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Feb 21, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Mar 07, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Mar 21, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Apr 04, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Apr 18, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "May 02, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "May 02, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "May 16, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Jun 06, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Jun 20, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Jul 04, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Jul 18, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Aug 01, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Aug 15, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Sep 05, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Sep 19, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Oct 03, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Oct 17, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Nov 07, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Nov 21, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Dec 05, 2022 6:00PM"
+    },
+    {
+      "venue": "The Toasted Monkey",
+      "band": "Sarah Diamond",
+      "dateString": "Dec 19, 2022 6:00PM"
+    }
+  ]
 }
