@@ -51,16 +51,16 @@ def runAll(url):
     
     driver.get(url)
 
-    band_name = driver.find_element(By.CLASS_NAME, '_2nzteM_uGca2Jnei9WwoIO').text.strip()
+    band_name = driver.find_element(By.CLASS_NAME, 'sKZg4aYIueqDu5cAfZ_q').text.strip()
 
     time.sleep(2)
-    show_more_button = driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div/div/div')
+    show_more_button = driver.find_element(By.XPATH, ohmicity_shared.bit_more_shows_button)
     show_more_button.click()
 
-    all_events = driver.find_element(By.CLASS_NAME, '_2rDT0wujxspQFu4Ozs7_yJ')
+    all_events = driver.find_element(By.CLASS_NAME, ohmicity_shared.bit_all_shows)
 
-    div = all_events.find_element(By.TAG_NAME, 'div')
-    links_tags = div.find_elements(By.TAG_NAME, 'a')
+    '''div = all_events.find_element(By.TAG_NAME, 'div')'''
+    links_tags = all_events.find_elements(By.TAG_NAME, 'a')
 
     for link in links_tags:
         links_array.append(link.get_property('href'))
@@ -68,17 +68,15 @@ def runAll(url):
     for link in links_array:
         driver.get(link)
         
-        venue_div = driver.find_element(By.CLASS_NAME, '_2wsU7P2Nq0F2Ewki3qdVwK')
-        venue_link = venue_div.find_element(By.TAG_NAME, 'a')
-        venue_name = venue_link.text
+        venue_name = driver.find_element(By.CLASS_NAME, 'PbHKFXY5zk12zpdE9vqk').text
 
         if any([x in venue_name.lower() for x in ohmicity_shared.venue_array]): 
                     pass
         else:
                     continue
 
-        show_date = driver.find_element(By.CLASS_NAME, '_1TLOSkbytCU0xipvsRNoDv').text
-        show_time = driver.find_element(By.CLASS_NAME, '_1iK6x88EqsupILFxTvC9ip').text
+        show_date = driver.find_element(By.CLASS_NAME, 'z0MsckJvCkH2k7G8LFq9').text
+        show_time = driver.find_element(By.CLASS_NAME, 'EVShpiZDtLTTZpfAxHav').text
         raw_time = show_date + " " + show_time
 
         this_time = parse(raw_time)
@@ -89,7 +87,7 @@ def runAll(url):
         showDict['band'] = band_name
         showDict['dateString'] = date_string
         shows_array.append(showDict)
-        time.sleep(5)
+        time.sleep(ohmicity_shared.wait_time)
 
     shows = {}
     shows['shows'] = shows_array

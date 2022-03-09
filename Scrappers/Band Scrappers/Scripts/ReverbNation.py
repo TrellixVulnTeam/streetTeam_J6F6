@@ -19,7 +19,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # %%
 url_array = [
-    'https://www.reverbnation.com/shevonnephilidor/shows', 'https://www.reverbnation.com/diamonddixie/shows', 'https://www.reverbnation.com/selwynbirchwood/shows', ''
+    'https://www.reverbnation.com/shevonnephilidor/shows', 'https://www.reverbnation.com/selwynbirchwood/shows'
 ]
 
 

@@ -54,10 +54,10 @@ def runAll(url):
     band_name = driver.find_element(By.CLASS_NAME, '_2nzteM_uGca2Jnei9WwoIO').text.strip()
 
     time.sleep(2)
-    show_more_button = driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div/div/div')
+    show_more_button = driver.find_element(By.XPATH, ohmicity_shared.bit_more_shows_button)
     show_more_button.click()
 
-    all_events = driver.find_element(By.CLASS_NAME, '_2rDT0wujxspQFu4Ozs7_yJ')
+    all_events = driver.find_element(By.CLASS_NAME, ohmicity_shared.bit_all_shows)
 
     div = all_events.find_element(By.TAG_NAME, 'div')
     links_tags = div.find_elements(By.TAG_NAME, 'a')
@@ -89,7 +89,7 @@ def runAll(url):
         showDict['band'] = band_name
         showDict['dateString'] = date_string
         shows_array.append(showDict)
-        time.sleep(5)
+        time.sleep(ohmicity_shared.wait_time)
 
     shows = {}
     shows['shows'] = shows_array
